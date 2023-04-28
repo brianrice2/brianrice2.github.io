@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-04-27T22:39:23-05:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">My Blog</title><subtitle>&quot;&quot;</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/jekyll/update/2023/04/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-04-27T22:19:39-05:00</published><updated>2023-04-27T22:19:39-05:00</updated><id>http://localhost:4000/blog/jekyll/update/2023/04/27/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/jekyll/update/2023/04/27/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Carless in Chicago</title><link href="http://localhost:4000/blog/lifestyle/environment/finances/2023/04/15/carless-in-chicago.html" rel="alternate" type="text/html" title="Carless in Chicago" /><published>2023-04-15T00:00:00-05:00</published><updated>2023-04-15T00:00:00-05:00</updated><id>http://localhost:4000/blog/lifestyle/environment/finances/2023/04/15/carless-in-chicago</id><content type="html" xml:base="http://localhost:4000/blog/lifestyle/environment/finances/2023/04/15/carless-in-chicago.html">&lt;p&gt;Ahh, back in street sweeping season once again in Chicago, when car owners struggle to fit on one side of the road and then switch over to the other side immediately after sweeping. I always felt like the timing was random, but it looks like it’s actually a very &lt;a href=&quot;https://www.chicago.gov/city/en/depts/streets/provdrs/streets_san/svcs/street_sweeping2023.html&quot;&gt;predictable once per month per section&lt;/a&gt;. The &lt;a href=&quot;https://www.chicago.gov/city/en/depts/streets/iframe/sweeper_tracker.html&quot;&gt;Sweeper Tracker&lt;/a&gt; seems pretty cool, but unfortunately it looks like it’s down at the moment.&lt;/p&gt;
+
+&lt;p&gt;It also marks my one-year anniversary of selling my car! Public transit is quite solid in Chicago, so I haven’t regretted the decision since. Through walking, biking, public transit, and sometimes ride shares, I can get anywhere I need to go pretty easily. Sure, it sometimes takes a bit longer than driving, but with some planning it’s not much worse.&lt;/p&gt;
+
+&lt;p&gt;I saved a lot of money:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;$1,000 in car insurance costs&lt;/li&gt;
+  &lt;li&gt;$1,310 in estimated wear and tear (based on $0.655/mile and 2,000 miles/year). This might be an overestimate – on one hand, I didn’t spend very much on maintenance when I did own (mostly just gas and oil changes), but on the other hand the car was a 2010 model so something big could’ve come up.&lt;/li&gt;
+  &lt;li&gt;$120 in parking costs (street parking is pretty cheap where I live – it can easily be twice as much &lt;em&gt;per month&lt;/em&gt; closer to downtown!)&lt;/li&gt;
+  &lt;li&gt;$1XX in registration fees and taxes. Both Evanston and Chicago have a wheel tax, although &lt;a href=&quot;https://www.civicfed.org/civic-federation/blog/cook-county-repeals-wheel-tax&quot;&gt;this is going away as of June 30, 2023&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I spent some money too:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;$100 on OurBus tickets and train fare to travel home. Every time except for once (a few days after Christmas), the bus has been nearly empty with plenty of room to spread out.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I feel better:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I walk 3/4-miles to the grocery once or twice a week (or I bike instead)&lt;/li&gt;
+  &lt;li&gt;If I have to travel a bit further, I take the bus or el or I bike instead&lt;/li&gt;
+  &lt;li&gt;I don’t have to worry about my car getting any parking tickets from the street sweepers :) this was the only ticket I’d ever received, and it was because my battery died and I couldn’t move the car in time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All in all it comes out to a few thousand per year in saved money and hassle. But on the other hand, I do pay a little extra in time for certain trips (though it’s sometimes even faster to bike!). Well worth it!&lt;/p&gt;</content><author><name></name></author><category term="lifestyle" /><category term="environment" /><category term="finances" /><summary type="html">Ahh, back in street sweeping season once again in Chicago, when car owners struggle to fit on one side of the road and then switch over to the other side immediately after sweeping. I always felt like the timing was random, but it looks like it’s actually a very predictable once per month per section. The Sweeper Tracker seems pretty cool, but unfortunately it looks like it’s down at the moment.</summary></entry><entry><title type="html">Computer Monitors</title><link href="http://localhost:4000/blog/lifestyle/2023/01/15/computer-monitors.html" rel="alternate" type="text/html" title="Computer Monitors" /><published>2023-01-15T00:00:00-06:00</published><updated>2023-01-15T00:00:00-06:00</updated><id>http://localhost:4000/blog/lifestyle/2023/01/15/computer-monitors</id><content type="html" xml:base="http://localhost:4000/blog/lifestyle/2023/01/15/computer-monitors.html">&lt;p&gt;Nothing seems quite so ridiculous to me as the number of office workers with several computer monitors. Or maybe I’m just an old man yelling about the way things are now. Some content creator only needs to make a 10-minute video about how much more productive they feel using a second (or third or fourth) monitor to rake in the Amazon affiliate link purchases. But this is mostly wasted money—it doesn’t actually increase the quality of your work. At best it marginally increases the quantity, and realistically might even decrease quality due to context switching.&lt;/p&gt;
+
+&lt;p&gt;There are a few exceptions, like designers and photo/video editors, who benefit from larger and higher-quality display images. But lots of knowledge workers are just editing text files and Excel sheets. If you just like how it looks, that’s fine. If you appreciate the craftmanship of the $5,000 Apple Pro Display XDR, that’s fine too. It’s your money—spend it how you like. But I just can’t help but question when that coworker with 4 monitors (of course at least 1 of which is vertical) says they’ve never felt more productive. To me they always seem to be stressed out.&lt;/p&gt;
+
+&lt;p&gt;The reasoning provided is usually to leave email or Teams up on the other screen. But how important is it to have another display so you can see that new email the minute it comes in without having to change windows? Are you paid to respond to emails and Teams messages within 15 minutes? Collaboration has its place and is hard to measure, but you’re probably better of focusing on just one thing at a time. In many cases another monitor is just a bandaid placed on top of an inability to focus; instead of working to improve this, we want to purchase a new item to fix things. In a consumerist society, we tend to acquire goods instead of improving skills or services.&lt;/p&gt;
+
+&lt;p&gt;I don’t expect this to change anytime soon, but hopefully we can think a bit more critically about what we do to create value in our jobs and how we are influenced to purchase things (instead of acquiring and improving skills) to advance these ends.&lt;/p&gt;</content><author><name></name></author><category term="lifestyle" /><summary type="html">Nothing seems quite so ridiculous to me as the number of office workers with several computer monitors. Or maybe I’m just an old man yelling about the way things are now. Some content creator only needs to make a 10-minute video about how much more productive they feel using a second (or third or fourth) monitor to rake in the Amazon affiliate link purchases. But this is mostly wasted money—it doesn’t actually increase the quality of your work. At best it marginally increases the quantity, and realistically might even decrease quality due to context switching.</summary></entry><entry><title type="html">2023 Bookshelf</title><link href="http://localhost:4000/blog/bookshelf/2023/01/01/bookshelf.html" rel="alternate" type="text/html" title="2023 Bookshelf" /><published>2023-01-01T00:00:00-06:00</published><updated>2023-01-01T00:00:00-06:00</updated><id>http://localhost:4000/blog/bookshelf/2023/01/01/bookshelf</id><content type="html" xml:base="http://localhost:4000/blog/bookshelf/2023/01/01/bookshelf.html">&lt;ul&gt;
+  &lt;li&gt;Wherever You Go, There You Are by Jon Kabat-Zinn&lt;/li&gt;
+  &lt;li&gt;All About Love by bell hooks&lt;/li&gt;
+  &lt;li&gt;The Ministry for the Future by Kim Stanley Robinson&lt;/li&gt;
+  &lt;li&gt;Dopamine Nation by Anna Lembke&lt;/li&gt;
+  &lt;li&gt;The Gifts of Imperfection by Brené Brown&lt;/li&gt;
+  &lt;li&gt;Strong Towns by Charles L. Marohn, Jr.&lt;/li&gt;
+  &lt;li&gt;Fundamentals of Data Engineering by Joe Reis and Matt Housley&lt;/li&gt;
+  &lt;li&gt;The Candy House by Jennifer Egan&lt;/li&gt;
+  &lt;li&gt;The Displacements by Bruce Holsinger&lt;/li&gt;
+  &lt;li&gt;Built to Move by Kelly and Juliet Starrett&lt;/li&gt;
+  &lt;li&gt;The 7 Habits of Highly Effective People by Stephen R. Covey&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="bookshelf" /><summary type="html">Wherever You Go, There You Are by Jon Kabat-Zinn All About Love by bell hooks The Ministry for the Future by Kim Stanley Robinson Dopamine Nation by Anna Lembke The Gifts of Imperfection by Brené Brown Strong Towns by Charles L. Marohn, Jr. Fundamentals of Data Engineering by Joe Reis and Matt Housley The Candy House by Jennifer Egan The Displacements by Bruce Holsinger Built to Move by Kelly and Juliet Starrett The 7 Habits of Highly Effective People by Stephen R. Covey</summary></entry><entry><title type="html">What Exactly is a Data Mesh?</title><link href="http://localhost:4000/blog/data-engineering/architecture/2022/09/03/data-mesh.html" rel="alternate" type="text/html" title="What Exactly is a Data Mesh?" /><published>2022-09-03T00:00:00-05:00</published><updated>2022-09-03T00:00:00-05:00</updated><id>http://localhost:4000/blog/data-engineering/architecture/2022/09/03/data-mesh</id><content type="html" xml:base="http://localhost:4000/blog/data-engineering/architecture/2022/09/03/data-mesh.html">&lt;p&gt;There’s a lot of talk around data meshes these days. It didn’t click for me until I read &lt;a href=&quot;https://martinfowler.com/articles/data-monolith-to-mesh.html&quot;&gt;How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A data mesh is like a microservice architecture for data.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Applying a service-oriented architecture to applications and programs leads to microservices, which have been around in the software industry for some time now. Applying the same pattern to &lt;em&gt;data&lt;/em&gt; leads to a data mesh.&lt;/p&gt;
+
+&lt;p&gt;Whether a team’s product is an application or data:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Domain teams are responsible for maintaining their own product&lt;/li&gt;
+  &lt;li&gt;They define an API for other teams to interact with their product&lt;/li&gt;
+  &lt;li&gt;They define SLOs to make promises around the quality and characteristics of their product&lt;/li&gt;
+  &lt;li&gt;Other products query/pull as &lt;em&gt;they&lt;/em&gt; need, rather than pushing or publishing outward&lt;/li&gt;
+  &lt;li&gt;Implementation details are left up to the product team. Just like an application may choose which libraries it wants to use to deliver its results, a data team can choose how and where to store its intermediate data or how to structure its data transformation pipelines.&lt;/li&gt;
+  &lt;li&gt;Products are cataloged in some centrally available discovery tool so that the organization has a place for finding products&lt;/li&gt;
+  &lt;li&gt;Care must be taken to ensure that global definitions of the same concept are in line (in other words, the same ideas are represented consistently across the organization)&lt;/li&gt;
+  &lt;li&gt;Products are secure, etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Readings and resouces:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://martinfowler.com/articles/data-monolith-to-mesh.html&quot;&gt;How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://martinfowler.com/articles/data-mesh-principles.html&quot;&gt;Data Mesh Principles and Logical Architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.starship.xyz/medium_blog_posts/dodging-the-data-bottleneckdata-mesh-at-starship/&quot;&gt;Dodging the data bottleneck — data mesh at Starship&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="data-engineering" /><category term="architecture" /><summary type="html">There’s a lot of talk around data meshes these days. It didn’t click for me until I read How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh.</summary></entry><entry><title type="html">Teach Yourself CS</title><link href="http://localhost:4000/blog/education/computer-science/2022/07/15/teach-yourself-cs.html" rel="alternate" type="text/html" title="Teach Yourself CS" /><published>2022-07-15T00:00:00-05:00</published><updated>2022-07-15T00:00:00-05:00</updated><id>http://localhost:4000/blog/education/computer-science/2022/07/15/teach-yourself-cs</id><content type="html" xml:base="http://localhost:4000/blog/education/computer-science/2022/07/15/teach-yourself-cs.html">&lt;p&gt;Tracking my journey through &lt;a href=&quot;https://teachyourselfcs.com&quot;&gt;Teach Yourself CS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2 id=&quot;programming&quot;&gt;Programming&lt;/h2&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Structure and Interpretation of Computer Programs&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Brian Harvey’s Berkeley CS 61A&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This was a good introduction to how programming languages are built and how interpreters work. I didn’t do any of the exercises, even though maybe I should have. The lectures provided a nice higher-level explanation of the material in the book, but I still found value in both. Lisp/Scheme seems cool, but I probably won’t pick it up any time soon.&lt;/p&gt;
+
+&lt;p&gt;Finished chapters 1-3 (4-5 didn’t seem as relevant/valuable). Started &lt;em&gt;Composing Programs&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;computer-architecture&quot;&gt;Computer Architecture&lt;/h2&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Computer Systems: A Programmer’s Perspective&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Berkeley CS 61C&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;data-structures-and-algorithms&quot;&gt;Data Structures and Algorithms&lt;/h2&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;The Algorithm Design Manual&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Steven Skiena’s lectures&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I first went through the lecture videos in ~April 2021.&lt;/p&gt;
+
+&lt;h2 id=&quot;math-for-computer-science&quot;&gt;Math for Computer Science&lt;/h2&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Mathematics for Computer Science&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Tom Leighton’s MIT 6.042J&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;operating-systems&quot;&gt;Operating Systems&lt;/h2&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Operating Systems: Three Easy Pieces&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Berkeley CS 162&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;computer-networking&quot;&gt;Computer Networking&lt;/h2&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Computer Networking: A Top-Down Approach&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Stanford CS 144&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;databases&quot;&gt;Databases&lt;/h2&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;&lt;a href=&quot;http://www.redbook.io/index.html&quot;&gt;Readings in Database Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Joe Hellerstein’s Berkeley CS 186&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;languages-and-compilers&quot;&gt;Languages and Compilers&lt;/h2&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Crafting Interpreters&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Alex Aiken’s course on edX&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;distributed-systems&quot;&gt;Distributed Systems&lt;/h2&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Designing Data-Intensive Applications&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;MIT 6.824&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I first finished this book in ~March 2021.&lt;/p&gt;</content><author><name></name></author><category term="education" /><category term="computer-science" /><summary type="html">Tracking my journey through Teach Yourself CS</summary></entry><entry><title type="html">Spatial Indexing</title><link href="http://localhost:4000/blog/geospatial/data-structures/2022/07/13/spatial-indexing.html" rel="alternate" type="text/html" title="Spatial Indexing" /><published>2022-07-13T00:00:00-05:00</published><updated>2022-07-13T00:00:00-05:00</updated><id>http://localhost:4000/blog/geospatial/data-structures/2022/07/13/spatial-indexing</id><content type="html" xml:base="http://localhost:4000/blog/geospatial/data-structures/2022/07/13/spatial-indexing.html">&lt;p&gt;Compared to regular B- and B+-trees used for relational table indexes, spatial indexes are key for multidimensional data. Instead of indexing the features themselves, they index the &lt;em&gt;bounding boxes&lt;/em&gt; (minimum bounding rectangles) of the features. This allows the DBMS to do a quick check to identify if the MBR is relevant; if it is, it can do a slower but more precise check.&lt;/p&gt;
+
+&lt;h2 id=&quot;quadtrees&quot;&gt;Quadtrees&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Quadtrees&lt;/em&gt; are a type of tree data structure commonly used to divide two-dimensional space into quadrants (typically rectangles, although regions may have arbitrary shapes). A quadtree requires that every internal node has exactly four children—each child is either a point or a smaller region.&lt;/p&gt;
+
+&lt;p&gt;However, quadtrees are not balanced and are divided according to insertion order, so can degenerate in cases of data skew or unfavorable insertion order.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Quadtree&quot;&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jimkang.com/quadtreevis/&quot;&gt;Jim Kang&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/quadtree.png&quot; alt=&quot;Quadtree. From https://opendsa-server.cs.vt.edu/ODSA/Books/fisd/cs3/fall-2020/1B_-_Adv_CS/html/_images/PRexamp.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;r-trees&quot;&gt;R-trees&lt;/h2&gt;
+
+&lt;p&gt;The &lt;em&gt;R-tree&lt;/em&gt; is the natural extension of the B-tree to higher dimensions. The root node has at least two children, and each internal node has between m and M children. Each node’s stored data is the minimum bounding rectangle for its children.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/r-tree.jpg&quot; alt=&quot;R-tree. From https://media.springernature.com/original/springer-static/image/prt%3A978-0-387-39940-9%2F18/MediaObjects/978-0-387-39940-9_18_Part_Fig3-300_HTML.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;grid-files&quot;&gt;Grid files&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Grid files&lt;/em&gt; index points only, and use a k-dimensional array as an index which points to larger data pages/buckets for storage.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/grid-files.png&quot; alt=&quot;Grid file. From https://raw.github.com/alexeygrigorev/wiki-figures/master/ulb/dbsa/ind/grid-files-ex1.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;k-d-b-trees&quot;&gt;k-d-B trees&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;k-d-B-trees&lt;/em&gt; subdivide space into two half-spaces according to comparison in one dimension (like a k-d tree), but keep the tree balanced like a B-tree.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/K-D-B-tree&quot;&gt;k-d-B trees&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://xlinux.nist.gov/dads/HTML/kdbtree.html&quot;&gt;k-d-B trees&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/K-d_tree&quot;&gt;k-d trees&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/kdb-tree.png&quot; alt=&quot;k-d-B tree. From https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/KBDtreeStructure.png/220px-KBDtreeStructure.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;other-references&quot;&gt;Other References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://postgis.net/workshops/postgis-intro/indexing.html#how-spatial-indexes-work&quot;&gt;PostGIS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="geospatial" /><category term="data-structures" /><summary type="html">Compared to regular B- and B+-trees used for relational table indexes, spatial indexes are key for multidimensional data. Instead of indexing the features themselves, they index the bounding boxes (minimum bounding rectangles) of the features. This allows the DBMS to do a quick check to identify if the MBR is relevant; if it is, it can do a slower but more precise check.</summary></entry><entry><title type="html">Designing Machine Learning Systems</title><link href="http://localhost:4000/blog/book-notes/mle/system-design/chip/2022/07/12/designing-ml-systems.html" rel="alternate" type="text/html" title="Designing Machine Learning Systems" /><published>2022-07-12T00:00:00-05:00</published><updated>2022-07-12T00:00:00-05:00</updated><id>http://localhost:4000/blog/book-notes/mle/system-design/chip/2022/07/12/designing-ml-systems</id><content type="html" xml:base="http://localhost:4000/blog/book-notes/mle/system-design/chip/2022/07/12/designing-ml-systems.html">&lt;p&gt;&lt;a href=&quot;https://huyenchip.com&quot;&gt;Chip Huyen&lt;/a&gt; recently released an excellent book, &lt;a href=&quot;https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969&quot;&gt;Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications&lt;/a&gt;. Recently I also read this book and recommend it wholeheartedly to anyone interested in the end-to-end machine learning lifecycle (go buy it now!). As I read through the book, I kept some notes of each chapter to improve my recall of the contents. I can’t pretend that these notes cover all the topics addressed in the book, but here they are :)&lt;/p&gt;
+
+&lt;h2 id=&quot;chapter-notes&quot;&gt;Chapter Notes&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-overview-of-machine-learning-systems&quot;&gt;1. Overview of Machine Learning Systems&lt;/h3&gt;
+
+&lt;p&gt;Machine learning solutions are appropriate when you want to (1) &lt;em&gt;learn&lt;/em&gt; (2) &lt;em&gt;complex patterns&lt;/em&gt; from (3) &lt;em&gt;existing data&lt;/em&gt; and use these patterns to make (4) &lt;em&gt;predictions&lt;/em&gt; on (5) &lt;em&gt;unseen data&lt;/em&gt;. ML solutions are particularly effective when (6) the task is repetitive, (7) the cost of wrong predictions is cheap, and (8) it’s at scale.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-introduction-to-machine-learning-systems-design&quot;&gt;2. Introduction to Machine Learning Systems Design&lt;/h3&gt;
+
+&lt;p&gt;Different teams often have different priorities, and it can be difficult to weigh competing metrics (it’s much easier to optimize for a single metric). At the end of the day, profit is the primary driver, so it’s critical to tie an ML system’s performance to the overall business performance.&lt;/p&gt;
+
+&lt;p&gt;ML systems should meet four characteristics: &lt;em&gt;reliability&lt;/em&gt; (performing even in the face of faults), &lt;em&gt;scalability&lt;/em&gt; (efficiently adjusting to traffic volume), &lt;em&gt;maintainability&lt;/em&gt; (relevant software, data, and artifacts are high-quality, documented, tracked, and organized), and &lt;em&gt;adaptability&lt;/em&gt; (the system can respond to data and business changes without downtime)&lt;/p&gt;
+
+&lt;p&gt;In real life, developing these ML systems is very much an iterative process, where the interaction between steps is continuously reexamined:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Project scoping&lt;/li&gt;
+  &lt;li&gt;Data engineering&lt;/li&gt;
+  &lt;li&gt;ML model development&lt;/li&gt;
+  &lt;li&gt;Deployment&lt;/li&gt;
+  &lt;li&gt;Monitoring and continual learning&lt;/li&gt;
+  &lt;li&gt;Business analysis&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;3-data-engineering-fundamentals&quot;&gt;3. Data Engineering Fundamentals&lt;/h3&gt;
+
+&lt;p&gt;Common data formats can be either text (human-readable) or binary, and row-major or column-major. In general, binary data is more performant and compact but cannot be directly inspected. &lt;em&gt;Row-major&lt;/em&gt; formats like CSV offer easy writes and appends; &lt;em&gt;column-major&lt;/em&gt; formats like Parquet offer great (column-based) read performance, especially useful for analytical workloads.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Data models&lt;/em&gt; describe how data is represented. Two common models are relational and NoSQL (of which document and graph models are notable subtypes).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Transaction processing&lt;/em&gt; must be done quickly and be highly available; on the other hand, &lt;em&gt;analytical processing&lt;/em&gt; can support higher latency and often aggregate across multiple data sources.&lt;/p&gt;
+
+&lt;p&gt;Data movement can take the form of data passing through databases, through services (request-driven and synchronous), and through real-time transport (event-driven, asynchronous, and communicate through brokers, e.g. pubsub and message queues).&lt;/p&gt;
+
+&lt;h3 id=&quot;4-training-data&quot;&gt;4. Training Data&lt;/h3&gt;
+
+&lt;p&gt;Data in the real world can be hard to collect and severely imbalanced, and &lt;em&gt;sampling&lt;/em&gt; and &lt;em&gt;data augmentation&lt;/em&gt; help to curate the right datasets to build ML on top of. &lt;em&gt;Natural labels&lt;/em&gt; are collected or created automatically by the system and are very useful for ML applications like recommender systems, although the labels may take a while to be created and stored.&lt;/p&gt;
+
+&lt;h3 id=&quot;5-feature-engineering&quot;&gt;5. Feature Engineering&lt;/h3&gt;
+
+&lt;p&gt;Missing values can be of three types:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Missing not at random&lt;/em&gt; (MNAR) means the reason a value is missing is because of the true value itself. For example, some people may choose not to respond when asked their income because it is especially low or high.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Missing at random&lt;/em&gt; (MAR) means another observed variable influences the fact that the value is missing. For example, people of one gender may prefer to not disclose their age.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Missing completely at random&lt;/em&gt; (MCAR) means there is really no pattern to when the value is missing. This type is very rare. Deletion is most appropriate for this type of missing value as long as the number of affected rows is small.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Data leakage&lt;/em&gt; is a particularly sneaky reason why ML applications fail in production. Pay careful attention to how you split time-correlated data; handle scaling, missing values, and duplicate values when splitting; and leakage that may come from the data generation process itself.&lt;/p&gt;
+
+&lt;p&gt;Continually revising the features included for a model is imperative for managing technical debt—too many features can result in overfitting, data leakage, increased latency/storage/memory, and unused features (aka tech debt). Use features that are important to the model and that generalize well, and remove features that are no longer useful even if they once were.&lt;/p&gt;
+
+&lt;h3 id=&quot;6-model-development-and-offline-evaluation&quot;&gt;6. Model Development and Offline Evaluation&lt;/h3&gt;
+
+&lt;p&gt;When deciding which model is a good fit for your application, consider:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Data, compute, and training time requirements&lt;/li&gt;
+  &lt;li&gt;Inference latency&lt;/li&gt;
+  &lt;li&gt;Interpretability&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Start with the simplest models and add complexity only when absolutely necessary! Consider that some models may perform worse now but be easier to update later (for example, a neural network that can continually learn vs a collaborative filtering model that cannot). Shifting from one model to an ensemble of models will probably be much harder to deploy, maintain, and debug, but the extra performance could potentially yield massive gains.&lt;/p&gt;
+
+&lt;p&gt;Tracking and versioning your experiments is very helpful for reproducibility, but can feel tedious—use tooling and infrastructure to ease the burden. Distributed training can make large models and training workloads feasible; AutoML can also help to tune parameters or test a massive number of different model architectures.&lt;/p&gt;
+
+&lt;p&gt;Having a good baseline to compare a challenger model against is essential for gauging relative performance—this point of reference could be random, a simple heuristic, the majority clas, human performance, or an existing (champion) model. For better robustness in production, employ perturbation, invariance, and directional expectation tests. Measure the model’s calibration, confidence measurement, and performance on different slices.&lt;/p&gt;
+
+&lt;h3 id=&quot;7-model-deployment-and-prediction-service&quot;&gt;7. Model Deployment and Prediction Service&lt;/h3&gt;
+
+&lt;p&gt;ML engineers should expect to have to maintain many models, that those models’ performance will degrade and will need frequent updating, and to eventually have to scale up.&lt;/p&gt;
+
+&lt;p&gt;Batch prediction uses only batch features, but online prediction can use any combination of batch and/or streaming features. Unifying batch and streaming pipelines goes a long way to ensuring consistency and preventing nasty bugs.&lt;/p&gt;
+
+&lt;p&gt;Models can be compressed through methods like &lt;em&gt;low-rank factorization&lt;/em&gt; (replacing high-dimensional tensors with low-dimensional ones), &lt;em&gt;knowledge distillation&lt;/em&gt; (a teacher model trains a smaller student model), &lt;em&gt;pruning&lt;/em&gt; (removing nodes or setting parameters to 0), and &lt;em&gt;quantization&lt;/em&gt; (reducing precision by using fewer bits to represent parameters).&lt;/p&gt;
+
+&lt;p&gt;Deploying models to the cloud is easier but more expensive; deploying to &lt;em&gt;edge devices&lt;/em&gt; is more hardware-constrained but provides less latency, better availability in poor connectivity areas, and more user privacy.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Compiling and optimizing models for edge devices is challenging! &lt;em&gt;Intermediate representations (IRs)&lt;/em&gt; are a series of progressively lower-level representations that translate high-level (e.g., PyTorch) code into machine code. Optimization engineers are usually brought in to optimize models for a certain hardware, although ML is getting increasingly involved in this step.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;8-data-distribution-shifts-and-monitoring&quot;&gt;8. Data Distribution Shifts and Monitoring&lt;/h3&gt;
+
+&lt;p&gt;ML systems fail because of all the same reasons that software systems fail &lt;em&gt;and then some&lt;/em&gt;: dependencies, deployment, hardware, etc. But differences in data between development and production, as well as new edge cases and degenerate feedback loops (where a system’s outputs influence its future inputs), raise the bar further.&lt;/p&gt;
+
+&lt;p&gt;Common types of data distribution shifts are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Covariate shift&lt;/em&gt;, where the input distribution changes but the prediction model P(Y;X) does not change&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Label shift&lt;/em&gt;, where the output distribution changes but, for a given output, the input distribution stays the same. This is related to covariate shift and often shows up together.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Concept drift&lt;/em&gt;, where the same input yields a different output. This is often cyclic or seasonal.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Monitoring ML systems can be useful at different points of the stack: from raw inputs to features to predictions to performance metrics. Raw inputs are harder to monitor than performance metrics but are less likely to be caused by human errors; on the other hand, performance metrics are closest to the business metrics that the system is there to help.&lt;/p&gt;
+
+&lt;h3 id=&quot;9-continual-learning-and-test-in-production&quot;&gt;9. Continual Learning and Test in Production&lt;/h3&gt;
+
+&lt;h4 id=&quot;continual-learning&quot;&gt;Continual Learning&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Continual learning&lt;/em&gt; allows us to respond to data distribution changes by continually updating ML models. It represents a paradigm shift from the traditional approach of batch learning, but opens many doors to better performance. The “learning” in “continual learning” may be done statelessly (retraining models from scratch with newer data) or statefully (continuing the training of a previous model with newer data)—similar to transfer learning and fine-tuning, the latter requires much less data. Both of these are examples of &lt;em&gt;data iteration&lt;/em&gt;, where the same model is refreshed with different data, as opposed to &lt;em&gt;model iteration&lt;/em&gt;, where the features or architectures of a model are changed.&lt;/p&gt;
+
+&lt;h4 id=&quot;testing-in-production&quot;&gt;Testing in Production&lt;/h4&gt;
+
+&lt;p&gt;Many problems encountered in machine learning model deployment are unique to a production environment; they cannot be (reasonably) recreated in a test environment. So there are some strategies to make the rollout of a new model safer and with higher confidence that it will improve the business metric for which it exists:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Shadow deployment&lt;/em&gt; involves deploying a challenger model in the background and logging its predictions to be analyzed later (while still returning predictions from the champion model). If the challenger’s performance looks okay, it can then be promoted.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;A/B testing&lt;/em&gt; randomly assigns groups of users to interact with models. Commonly, two models A and B are compared with each other, but the experiment may be set up for more than one treatment (i.e., A/B/C/D testing). Since this is a statistical experiment, it’s important to ensure that user assignment is completely random, that there are no confounding variables (like which type of device users are on), and that groups and predictions are isolated from one another.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Canary release&lt;/em&gt; or &lt;em&gt;canary deployment&lt;/em&gt; rolls out the challenger model to a small subset of users, devices, etc. If the performance meets or exceeds that of the champion model, its rollout progresses; if the performance plummets, its rollout is immediately rolled back and the champion model remains in effect.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Interleaved experiments&lt;/em&gt; display predictions from both models side-by-side and is used especially in the context of recommender systems. Deciding if model A or model B is better becomes much easier when recommendations from both models are displayed and the user can act on their preferred item. However, the information provided relates mostly to users’ preferences, not &lt;strong&gt;XYZ&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Bandits&lt;/em&gt; are the most data-efficient option, but also the most complex to implement—for this reason, their use is most common in large tech companies.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;10-infrastructure-and-tooling-for-mlops&quot;&gt;10. Infrastructure and Tooling for MLOps&lt;/h3&gt;
+
+&lt;p&gt;The infrastructure used for powering machine learning at scale can be split into four layers:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;Storage and compute&lt;/em&gt; allow for collection and storage of data, and provide the resources necessary to run ML and other workloads&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Resource management&lt;/em&gt; schedules and orchestrates workloads to make better use of your compute resources&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;ML platform&lt;/em&gt; provides ML-specific tooling to help with development and deployment of ML applications, like model registries, feature stores, and monitoring tools&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Development environments&lt;/em&gt; are where code is written and experiments are run&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;storage-and-compute&quot;&gt;Storage and Compute&lt;/h4&gt;
+
+&lt;p&gt;Data storage can be handled in a variety of ways, but it’s so cheap now that many companies default to storing everything in the cloud. This topic is covered mostly in the previous chapters.&lt;/p&gt;
+
+&lt;p&gt;Compute may be ephemeral (think serverless like AWS Step Functions or Google Cloud Run) or more long-lived (like EC2).&lt;/p&gt;
+
+&lt;h4 id=&quot;resource-management&quot;&gt;Resource Management&lt;/h4&gt;
+
+&lt;p&gt;Schedulers deal with &lt;em&gt;when&lt;/em&gt; jobs run while orchestrators deal with &lt;em&gt;where&lt;/em&gt; jobs run, but there is often some overlap between frameworks. Workflow management tools are similar to schedulers, but deal more with tasks and workflows as a whole rather than individual jobs (think high-level vs. low-level).&lt;/p&gt;
+
+&lt;p&gt;Cron is a simple job scheduler. More complex solutions like Airflow can handle dependencies between jobs as well as resource management.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Airflow&lt;/li&gt;
+  &lt;li&gt;Prefect&lt;/li&gt;
+  &lt;li&gt;Argo&lt;/li&gt;
+  &lt;li&gt;Kubeflow&lt;/li&gt;
+  &lt;li&gt;Metaflow&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ml-platform&quot;&gt;ML Platform&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Model deployment&lt;/em&gt; services should make it easy for you to offer online and batch predictions (with batch predictions being a better indicator of quality, as it involves the nuances of job scheduling and prediction storage) as well as performing different test-in-production schemes described in chapter 9&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Model stores&lt;/em&gt; help track ML artifacts like: model definitions and parameters, software and data dependencies, model generation code, other experiment artifacts, and metadata tags (like model owners or the relevant business task). Even &lt;a href=&quot;https://mlflow.org&quot;&gt;MLflow&lt;/a&gt;, the most popular model store, still is far from solving the artifact problem.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Feature stores&lt;/em&gt; help address feature management (sharing, discovering, and describing features), transformation (performing computation and storing the results for reuse), and/or consistency (ensure aligment between features for dev/production environments, batch/streaming pipelines, and training/inference).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;development-environments&quot;&gt;Development Environments&lt;/h4&gt;
+
+&lt;p&gt;Dev environments are where data scientists and engineers spend most of their time. Improvements you make here can vastly improve the productivity for many users. Progressing down the dependency spectrum of standardized packages to standardized Python/language versions to standardized dev containers to cloud-based development environments can greatly improve the consistency and experience across teams as well as reduce the burden of supporting many different IDEs and environment configurations.&lt;/p&gt;
+
+&lt;h3 id=&quot;11-the-human-side-of-machine-learning&quot;&gt;11. The Human Side of Machine Learning&lt;/h3&gt;
+
+&lt;p&gt;It can be common to have a separate team managing production and deployments, but this often yields worse communication/collaboration and more difficult debugging (worse visibility). Having end-to-end data scientists is harder to recruit and train for, but can have great impact.&lt;/p&gt;</content><author><name></name></author><category term="book-notes" /><category term="mle" /><category term="system-design" /><category term="chip" /><summary type="html">Chip Huyen recently released an excellent book, Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications. Recently I also read this book and recommend it wholeheartedly to anyone interested in the end-to-end machine learning lifecycle (go buy it now!). As I read through the book, I kept some notes of each chapter to improve my recall of the contents. I can’t pretend that these notes cover all the topics addressed in the book, but here they are :)</summary></entry><entry><title type="html">Horizontal vs Vertical Scalability</title><link href="http://localhost:4000/blog/swe/2022/07/10/scalability-horizontal-vertical.html" rel="alternate" type="text/html" title="Horizontal vs Vertical Scalability" /><published>2022-07-10T00:00:00-05:00</published><updated>2022-07-10T00:00:00-05:00</updated><id>http://localhost:4000/blog/swe/2022/07/10/scalability-horizontal-vertical</id><content type="html" xml:base="http://localhost:4000/blog/swe/2022/07/10/scalability-horizontal-vertical.html">&lt;h2 id=&quot;what-is-scalability&quot;&gt;What is scalability?&lt;/h2&gt;
+
+&lt;p&gt;Simply put, &lt;em&gt;scalability&lt;/em&gt; is the ability to adjust the capacity of a system (up or down) to efficiently meet demand. The growth of the system can be in different dimensions (size of data, concurrency requirements, and interaction rates) and can typically be measured by work throughput (requests per second, concurrent users, data processing, etc.).&lt;/p&gt;
+
+&lt;h2 id=&quot;types-of-scaling&quot;&gt;Types of scaling&lt;/h2&gt;
+
+&lt;h3 id=&quot;vertical-scaling&quot;&gt;Vertical scaling&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Vertical scaling&lt;/em&gt; powers up a single machine to increase performance. This might normally be done by upgrading the hardware or increasing the network throughput:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Increase the I/O capacity via hard drives in &lt;a href=&quot;https://en.wikipedia.org/wiki/RAID&quot;&gt;RAID arrays&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Reduce I/O access times by switching to SSDs&lt;/li&gt;
+  &lt;li&gt;Reduce the number of I/O operations required by increasing RAM&lt;/li&gt;
+  &lt;li&gt;Increase network throughput by upgrading network interfaces or installing new ones&lt;/li&gt;
+  &lt;li&gt;Increase the number of CPU cores or make existing ones more powerful&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For example, in the cloud it’s easy to increase processing capacity by upgrading the instance type—just select your new type and reboot the VM. It’s quite easy to develop within this paradigm, as everything runs on one server (avoiding slow cross-machine communication) and most programming languages support multithreading.&lt;/p&gt;
+
+&lt;p&gt;Although these upgrades are relatively simple, but can quickly become very expensive, and because the highest-end hardware is very expensive you get relatively poor performance for the price. The capacity of the system is still limited by the power of the one machine, and the machine acts as a single point of failure. Depending on which area you want to scale, it can sometimes take a long time to scale up as well.&lt;/p&gt;
+
+&lt;h3 id=&quot;horizontal-scaling&quot;&gt;Horizontal scaling&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Horizontal scaling&lt;/em&gt; is needed to perform at the global scale. Instead of upgrading the power of one machine, we increase the system’s capacity by adding more servers. Ideally all workers are identical and replaceable, and if one goes down, we can add a new one to take its place (&lt;a href=&quot;https://devops.stackexchange.com/questions/653/what-is-the-definition-of-cattle-not-pets&quot;&gt;cattle not pets&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;There is significant architectural overhead with adopting this approach, so it requires a big upfront investment but pays off later in scale. Communication between machines is now required in order to coordinate work, and this introduces a slew of potential problems and slowdowns. Once your application is set up to allow for this type of scaling, you can simply purchase more VM instances and they’re available within minutes. Having replaceable workers also provides helpful redundancy in case of failures.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/310.html&quot;&gt;Northwestern CS 310: Scalable Software Architectures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655&quot;&gt;Web Scalability for Startup Engineers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lethain.com/introduction-to-architecting-systems-for-scale/&quot;&gt;Introduction to Architecting Systems for Scale&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="swe" /><summary type="html">What is scalability?</summary></entry><entry><title type="html">2022 Bookshelf</title><link href="http://localhost:4000/blog/bookshelf/2022/01/01/bookshelf.html" rel="alternate" type="text/html" title="2022 Bookshelf" /><published>2022-01-01T00:00:00-06:00</published><updated>2022-01-01T00:00:00-06:00</updated><id>http://localhost:4000/blog/bookshelf/2022/01/01/bookshelf</id><content type="html" xml:base="http://localhost:4000/blog/bookshelf/2022/01/01/bookshelf.html">&lt;h2 id=&quot;fiction&quot;&gt;Fiction&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gray Man by Mark Greaney&lt;/li&gt;
+  &lt;li&gt;We by Yevgeny Zamyatin&lt;/li&gt;
+  &lt;li&gt;The Phoenix Project by Gene Kim, Kevin Behr, George Spafford&lt;/li&gt;
+  &lt;li&gt;Gorky Park by Martin Cruz Smith&lt;/li&gt;
+  &lt;li&gt;Klara and the Sun by Kazuo Ishiguro&lt;/li&gt;
+  &lt;li&gt;Splinter Cell by David Michaels&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;nonfiction&quot;&gt;Nonfiction&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Programmer’s Brain by Felienne Hermans&lt;/li&gt;
+  &lt;li&gt;Clear and Simple as the Truth by Francis-Noel Thomas and Mark Turner&lt;/li&gt;
+  &lt;li&gt;Greenlights by Matthew McConaughey&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.scala-lang.org/overviews/scala-book/introduction.html&quot;&gt;Scala Book&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Designing Machine Learning Systems by Chip Huyen (❤️)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://missing.csail.mit.edu&quot;&gt;The Missing Semester of Your CS Education&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Papillon by Henri Charriere&lt;/li&gt;
+  &lt;li&gt;Kitchen Confidential by Anthony Bourdain&lt;/li&gt;
+  &lt;li&gt;The Structure and Interpretation of Computer Programs by Gerald Jay Sussman, Hal Abelson, and Julie Sussman (chapters 1-3)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;philosophy&quot;&gt;Philosophy&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Think on These Things by Jiddu Krishnamurti&lt;/li&gt;
+  &lt;li&gt;Siddhartha by Hermann Hesse&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;self-improvement&quot;&gt;Self-Improvement&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Deskbound by Kelly Starrett&lt;/li&gt;
+  &lt;li&gt;Attached by Amir Levine and Rachel Heller&lt;/li&gt;
+  &lt;li&gt;The Mountain is You by Brianna West&lt;/li&gt;
+  &lt;li&gt;Extreme Ownership by Jocko Willink and Leif Babin&lt;/li&gt;
+  &lt;li&gt;4,000 Weeks: Time Management for Mortals by Oliver Burkeman&lt;/li&gt;
+  &lt;li&gt;Goodbye, Things by Fumio Sasaki&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;personal-finance&quot;&gt;Personal Finance&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Year of Less by Cait Flanders&lt;/li&gt;
+  &lt;li&gt;The Millionaire Next Door by Thomas Stanley&lt;/li&gt;
+  &lt;li&gt;Your Money or Your Life by Vicki Robin and Joe Dominguez&lt;/li&gt;
+  &lt;li&gt;The Richest Man in Babylon by George Clason&lt;/li&gt;
+  &lt;li&gt;The Bogleheads’ Guide to Investing by Mel Lindauer, Taylor Larimore, and Michael LeBoeuf&lt;/li&gt;
+  &lt;li&gt;Early Retirement Extreme by Jacob Lund Fisker&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;blogsnewslettersarticlesyoutube&quot;&gt;Blogs/Newsletters/Articles/YouTube&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://askpolly.substack.com/&quot;&gt;Heather Havrilesky: Ask Polly&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://askpolly.substack.com/p/what-should-i-do-with-my-life&quot;&gt;What should I do with my life? Tune out the world and pay close attention to what you value and admire.&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://psyche.co/&quot;&gt;Psyche&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://psyche.co/guides/how-to-know-what-you-really-want-and-be-free-from-mimetic-desire&quot;&gt;How to know what you really want&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.shotwell.ca/post/ms-covid/&quot;&gt;Gordon Shotwell: What MS taught me about the pandemic&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.raptitude.com/2017/12/go-deeper-not-wider/&quot;&gt;David Cain: Go deeper, not wider&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://horace.io/brrr_intro.html&quot;&gt;Making Deep Learning Go Brrrr From First Principles&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev-discuss.pytorch.org/t/min-cut-optimal-recomputation-i-e-activation-checkpointing-with-aotautograd/467&quot;&gt;PyTorch: Min-cut optimal recomputation (i.e. activation checkpointing) with AOTAutograd&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://laszlo.substack.com&quot;&gt;Laszlo’s Newsletter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/c/ArjanCodes&quot;&gt;YouTube: ArjanCodes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="bookshelf" /><summary type="html">Fiction</summary></entry></feed>
