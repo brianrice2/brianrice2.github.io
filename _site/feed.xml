@@ -1,20 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-04-27T22:39:23-05:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">My Blog</title><subtitle>&quot;&quot;</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/jekyll/update/2023/04/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-04-27T22:19:39-05:00</published><updated>2023-04-27T22:19:39-05:00</updated><id>http://localhost:4000/blog/jekyll/update/2023/04/27/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/jekyll/update/2023/04/27/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2023-04-27T22:49:40-05:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">brianrice2.github.io</title><entry><title type="html">Thoughtfulness</title><link href="http://localhost:4000/blog/philosophy/career/2023/04/27/thoughtfulness.html" rel="alternate" type="text/html" title="Thoughtfulness" /><published>2023-04-27T00:00:00-05:00</published><updated>2023-04-27T00:00:00-05:00</updated><id>http://localhost:4000/blog/philosophy/career/2023/04/27/thoughtfulness</id><content type="html" xml:base="http://localhost:4000/blog/philosophy/career/2023/04/27/thoughtfulness.html">&lt;p&gt;A lot of the gripes about working an office job, and just existing in society nowadays, can be attributed to thoughtlessness.&lt;/p&gt;
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+&lt;p&gt;People looking to upskill are bombarded with an incredible amount of low-quality “10 Ways to Level Up as a Data Scientist” and “3 Essential Tips to Senior Engineer” content that has a lot of words (and ads) and yet you walk away without learning much of anything. It’s much easier to read (and generate) these articles than to sit down and spend a few hours critically examining your past, present, and future goals with respect to your experience, strengths, and weaknesses. There are a few good learning roadmaps out there for programming-adjacent jobs—just pick the one with the most stars on Github and get on your way. Anyways, they invariably end up rehashing the same fundamental categories anyways: learn about data structures and algorithms, databases, statistics or networking. Learn about how an interpreter works, or your operating system, or your computer hardware. This knowledge will serve you for the next several years, assuming you can anchor the ideas to something, while the 10 newest syntax features of Python 3.11 is wasted effort unless you’ve already put in hours of practice with Python. Syntax changes all the time, while the same few key data structures and algorithms show up ad infinitum.&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Even in the most frustrating of cases, so many professionals cannot be bothered to read through an error’s stack trace before asking a coworker or Google for help—but how do they even know the right question to ask?&lt;/p&gt;
 
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Taking the time to reflect upon things at a macro scale, or even a micro scale, is unfortunately less common than I would like. But doing minor things can help. Decline questionable meetings with or without a polite request to redirect to an asynchronous method. Add an agenda and desired outcome to all your meeting invites to prevent runaway meetings and hopefully inspire teammates to do the same. In your everyday life, avoid the urge to throw on a Youtube video or podcast in the background of other activities. Apps have been so finely overengineered to grab your attention that it can be quite difficult, but it’s essential to create some empty space for reflection.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Like my old cross country coach would say, slow is smooth, smooth is fast. Working thoughtfully is slow and smooth and fast. Struggling with a problem? Bother to understand what is going on and make a few reasonable attempts to resolve the issue—anyone whose help you ask for later will thank you.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Related&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Carless in Chicago</title><link href="http://localhost:4000/blog/lifestyle/environment/finances/2023/04/15/carless-in-chicago.html" rel="alternate" type="text/html" title="Carless in Chicago" /><published>2023-04-15T00:00:00-05:00</published><updated>2023-04-15T00:00:00-05:00</updated><id>http://localhost:4000/blog/lifestyle/environment/finances/2023/04/15/carless-in-chicago</id><content type="html" xml:base="http://localhost:4000/blog/lifestyle/environment/finances/2023/04/15/carless-in-chicago.html">&lt;p&gt;Ahh, back in street sweeping season once again in Chicago, when car owners struggle to fit on one side of the road and then switch over to the other side immediately after sweeping. I always felt like the timing was random, but it looks like it’s actually a very &lt;a href=&quot;https://www.chicago.gov/city/en/depts/streets/provdrs/streets_san/svcs/street_sweeping2023.html&quot;&gt;predictable once per month per section&lt;/a&gt;. The &lt;a href=&quot;https://www.chicago.gov/city/en/depts/streets/iframe/sweeper_tracker.html&quot;&gt;Sweeper Tracker&lt;/a&gt; seems pretty cool, but unfortunately it looks like it’s down at the moment.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://norvig.com/21-days.html&quot;&gt;Teach Yourself Programming in Ten Years&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jvns.ca/blog/good-questions/&quot;&gt;How to Ask Good Questions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.catb.org/~esr/faqs/smart-questions.html&quot;&gt;How to Ask Questions the Smart Way&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="philosophy" /><category term="career" /><summary type="html">A lot of the gripes about working an office job, and just existing in society nowadays, can be attributed to thoughtlessness.</summary></entry><entry><title type="html">Abstractions - The Most Important Piece of Building Software?</title><link href="http://localhost:4000/blog/swe/2023/04/27/simple-software.html" rel="alternate" type="text/html" title="Abstractions - The Most Important Piece of Building Software?" /><published>2023-04-27T00:00:00-05:00</published><updated>2023-04-27T00:00:00-05:00</updated><id>http://localhost:4000/blog/swe/2023/04/27/simple-software</id><content type="html" xml:base="http://localhost:4000/blog/swe/2023/04/27/simple-software.html">&lt;p&gt;During my limited time as a software engineer so far, one thing has risen to be a pretty good indicator of how difficult it will be to build and maintain the project: the abstractions. The ability to identify and separate different moving parts is a very valuable skill to have.&lt;/p&gt;
+
+&lt;p&gt;In practice, this comes down to a few more specific things:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Logical and relevant grouping of code&lt;/li&gt;
+  &lt;li&gt;Having functions do only one thing&lt;/li&gt;
+  &lt;li&gt;Naming functions based on verbs and behaviors (or &lt;em&gt;what&lt;/em&gt; is being done) rather than implementation (&lt;em&gt;how&lt;/em&gt; it’s being done)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Besides the Holy Grails of Software like SOLID and DRY adherence, it also just makes the workday more enjoyable. I have a lot easier time thinking about what the function &lt;em&gt;should do&lt;/em&gt; and &lt;em&gt;actually does&lt;/em&gt; when  it’s written at a third-grade level, and this also means that it’s easy to write simple tests on its behavior.&lt;/p&gt;
+
+&lt;p&gt;Plus, a good set of abstractions makes future improvements really easy (Everybody has their own take on writing futureproof software, but right now I’m in the boat of writing clear and simple code that meets the requirements &lt;em&gt;without&lt;/em&gt; trying to write tomorrow’s software today. People are pretty bad about predicting what we’ll need in the future – politicians, stock traders, and, yes, even programmers). Got a slow search or sort algorithm? Swap out the code in that one function and you’re all set. Need to use a different SQL templating framework? No problem. The database connection mechanism probably shouldn’t change.&lt;/p&gt;
+
+&lt;p&gt;In physical training we like to shoot for the &lt;a href=&quot;https://rpstrength.com/training-volume-landmarks-muscle-growth/&quot;&gt;minimum effective volume&lt;/a&gt;, which is just enough volume to actually improve without nearly as much injury risk as the &lt;em&gt;most&lt;/em&gt; you can tolerate. But in software, things skew towards the maximum tolerable complexity – the teetering point at which we can just barely maintain the system. With all due respect, developing a software project that assumes my coworkers are at a high school level would probably (hopefully?) yield clarity and simplicity in the code, tests, and documentation. Your coworkers won’t walk away thinking you’re a genius, but they’ll walk away knowing what’s going on. In the era of hypercomplexity, Stupid Simple Software is the way for our work to outlive our tenure.&lt;/p&gt;</content><author><name></name></author><category term="swe" /><summary type="html">During my limited time as a software engineer so far, one thing has risen to be a pretty good indicator of how difficult it will be to build and maintain the project: the abstractions. The ability to identify and separate different moving parts is a very valuable skill to have.</summary></entry><entry><title type="html">Carless in Chicago</title><link href="http://localhost:4000/blog/lifestyle/environment/finances/2023/04/15/carless-in-chicago.html" rel="alternate" type="text/html" title="Carless in Chicago" /><published>2023-04-15T00:00:00-05:00</published><updated>2023-04-15T00:00:00-05:00</updated><id>http://localhost:4000/blog/lifestyle/environment/finances/2023/04/15/carless-in-chicago</id><content type="html" xml:base="http://localhost:4000/blog/lifestyle/environment/finances/2023/04/15/carless-in-chicago.html">&lt;p&gt;Ahh, back in street sweeping season once again in Chicago, when car owners struggle to fit on one side of the road and then switch over to the other side immediately after sweeping. I always felt like the timing was random, but it looks like it’s actually a very &lt;a href=&quot;https://www.chicago.gov/city/en/depts/streets/provdrs/streets_san/svcs/street_sweeping2023.html&quot;&gt;predictable once per month per section&lt;/a&gt;. The &lt;a href=&quot;https://www.chicago.gov/city/en/depts/streets/iframe/sweeper_tracker.html&quot;&gt;Sweeper Tracker&lt;/a&gt; seems pretty cool, but unfortunately it looks like it’s down at the moment.&lt;/p&gt;
 
 &lt;p&gt;It also marks my one-year anniversary of selling my car! Public transit is quite solid in Chicago, so I haven’t regretted the decision since. Through walking, biking, public transit, and sometimes ride shares, I can get anywhere I need to go pretty easily. Sure, it sometimes takes a bit longer than driving, but with some planning it’s not much worse.&lt;/p&gt;
 
@@ -394,77 +408,4 @@
   &lt;li&gt;&lt;a href=&quot;https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/310.html&quot;&gt;Northwestern CS 310: Scalable Software Architectures&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655&quot;&gt;Web Scalability for Startup Engineers&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://lethain.com/introduction-to-architecting-systems-for-scale/&quot;&gt;Introduction to Architecting Systems for Scale&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="swe" /><summary type="html">What is scalability?</summary></entry><entry><title type="html">2022 Bookshelf</title><link href="http://localhost:4000/blog/bookshelf/2022/01/01/bookshelf.html" rel="alternate" type="text/html" title="2022 Bookshelf" /><published>2022-01-01T00:00:00-06:00</published><updated>2022-01-01T00:00:00-06:00</updated><id>http://localhost:4000/blog/bookshelf/2022/01/01/bookshelf</id><content type="html" xml:base="http://localhost:4000/blog/bookshelf/2022/01/01/bookshelf.html">&lt;h2 id=&quot;fiction&quot;&gt;Fiction&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Gray Man by Mark Greaney&lt;/li&gt;
-  &lt;li&gt;We by Yevgeny Zamyatin&lt;/li&gt;
-  &lt;li&gt;The Phoenix Project by Gene Kim, Kevin Behr, George Spafford&lt;/li&gt;
-  &lt;li&gt;Gorky Park by Martin Cruz Smith&lt;/li&gt;
-  &lt;li&gt;Klara and the Sun by Kazuo Ishiguro&lt;/li&gt;
-  &lt;li&gt;Splinter Cell by David Michaels&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;nonfiction&quot;&gt;Nonfiction&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The Programmer’s Brain by Felienne Hermans&lt;/li&gt;
-  &lt;li&gt;Clear and Simple as the Truth by Francis-Noel Thomas and Mark Turner&lt;/li&gt;
-  &lt;li&gt;Greenlights by Matthew McConaughey&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.scala-lang.org/overviews/scala-book/introduction.html&quot;&gt;Scala Book&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Designing Machine Learning Systems by Chip Huyen (❤️)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://missing.csail.mit.edu&quot;&gt;The Missing Semester of Your CS Education&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Papillon by Henri Charriere&lt;/li&gt;
-  &lt;li&gt;Kitchen Confidential by Anthony Bourdain&lt;/li&gt;
-  &lt;li&gt;The Structure and Interpretation of Computer Programs by Gerald Jay Sussman, Hal Abelson, and Julie Sussman (chapters 1-3)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;philosophy&quot;&gt;Philosophy&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Think on These Things by Jiddu Krishnamurti&lt;/li&gt;
-  &lt;li&gt;Siddhartha by Hermann Hesse&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;self-improvement&quot;&gt;Self-Improvement&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Deskbound by Kelly Starrett&lt;/li&gt;
-  &lt;li&gt;Attached by Amir Levine and Rachel Heller&lt;/li&gt;
-  &lt;li&gt;The Mountain is You by Brianna West&lt;/li&gt;
-  &lt;li&gt;Extreme Ownership by Jocko Willink and Leif Babin&lt;/li&gt;
-  &lt;li&gt;4,000 Weeks: Time Management for Mortals by Oliver Burkeman&lt;/li&gt;
-  &lt;li&gt;Goodbye, Things by Fumio Sasaki&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;personal-finance&quot;&gt;Personal Finance&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The Year of Less by Cait Flanders&lt;/li&gt;
-  &lt;li&gt;The Millionaire Next Door by Thomas Stanley&lt;/li&gt;
-  &lt;li&gt;Your Money or Your Life by Vicki Robin and Joe Dominguez&lt;/li&gt;
-  &lt;li&gt;The Richest Man in Babylon by George Clason&lt;/li&gt;
-  &lt;li&gt;The Bogleheads’ Guide to Investing by Mel Lindauer, Taylor Larimore, and Michael LeBoeuf&lt;/li&gt;
-  &lt;li&gt;Early Retirement Extreme by Jacob Lund Fisker&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;blogsnewslettersarticlesyoutube&quot;&gt;Blogs/Newsletters/Articles/YouTube&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://askpolly.substack.com/&quot;&gt;Heather Havrilesky: Ask Polly&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://askpolly.substack.com/p/what-should-i-do-with-my-life&quot;&gt;What should I do with my life? Tune out the world and pay close attention to what you value and admire.&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://psyche.co/&quot;&gt;Psyche&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://psyche.co/guides/how-to-know-what-you-really-want-and-be-free-from-mimetic-desire&quot;&gt;How to know what you really want&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.shotwell.ca/post/ms-covid/&quot;&gt;Gordon Shotwell: What MS taught me about the pandemic&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.raptitude.com/2017/12/go-deeper-not-wider/&quot;&gt;David Cain: Go deeper, not wider&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://horace.io/brrr_intro.html&quot;&gt;Making Deep Learning Go Brrrr From First Principles&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev-discuss.pytorch.org/t/min-cut-optimal-recomputation-i-e-activation-checkpointing-with-aotautograd/467&quot;&gt;PyTorch: Min-cut optimal recomputation (i.e. activation checkpointing) with AOTAutograd&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://laszlo.substack.com&quot;&gt;Laszlo’s Newsletter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/c/ArjanCodes&quot;&gt;YouTube: ArjanCodes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="bookshelf" /><summary type="html">Fiction</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="swe" /><summary type="html">What is scalability?</summary></entry></feed>
