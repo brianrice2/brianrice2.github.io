@@ -1,5 +1,5 @@
 #! /bin/bash
-set -euxo pipefail
+set -euo pipefail
 
 FILENAME="_posts/$(date +"%Y-%m-%d")-new-post.md"
 
@@ -13,3 +13,5 @@ title:
 ---
 
 EOF
+
+echo "Created $FILENAME"
