@@ -22,7 +22,7 @@ Daily Dozen:
 
 - [ ] Beans
 - [ ] Berries
-- [x] [ ] [ ] Other fruits (1/3)
+- [x] Other fruits (1/3)
 - [x] Cruciferous vegetables
 - [ ] Greens
 - [ ] Other vegetables
