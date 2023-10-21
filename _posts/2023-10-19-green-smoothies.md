@@ -20,13 +20,13 @@ title: Green Smoothies
 
 Daily Dozen:
 
-[ ] Beans
-[ ] Berries
-[x] Other fruits (1/3)
-[x] Cruciferous vegetables
-[ ] Greens
-[ ] Other vegetables
-[x] Flaxseed
-[x] Nuts and seeds
-[x] Herbs and spices
-[ ] Whole grains
+- [ ] Beans
+- [ ] Berries
+- [x] Other fruits (1/3)
+- [x] Cruciferous vegetables
+- [ ] Greens
+- [ ] Other vegetables
+- [x] Flaxseed
+- [x] Nuts and seeds
+- [x] Herbs and spices
+- [ ] Whole grains
