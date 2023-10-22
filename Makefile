@@ -1,5 +1,8 @@
 draft:
-	./init.sh
+	./init-draft.sh
+
+post:
+	./init-post.sh
 
 serve:
 	bundle exec jekyll serve
