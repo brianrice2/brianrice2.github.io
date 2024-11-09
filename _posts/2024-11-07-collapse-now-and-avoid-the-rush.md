@@ -1,10 +1,14 @@
 ---
 toc: false
 layout: post
-description: How to read the works when it's out of print
-categories: []
+description:
+categories: [bookshelf, environment, lifestyle]
 title: Collapse Now and Avoid the Rush
 ---
+
+Introduction here: [resilience.org](https://www.resilience.org/stories/2012-06-06/collapse-now-and-avoid-rush/)
+
+Unfortunately, the book seems to be out of print now. But luckily, the book is a collection of previously-posted essays, and many fans have created mirrors to preserve The Archdruid Report. So, read them here:
 
 1. [Knowing Only One Story](https://archdruidmirror.blogspot.com/2017/06/knowing-only-one-story.html)
 2. [The Blood of the Earth, or Pulp Nonfiction](https://archdruidmirror.blogspot.com/2017/06/the-blood-of-earth-or-pulp-nonfiction.html)
