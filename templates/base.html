@@ -1,0 +1,26 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="author" content="Brian Rice" />
+    <meta name="    <meta name=" viewport" content="width=device-width" />
+    <title>{% block title2 %} {% endblock %}</title>
+    <link rel="canonical" href="{{ current_url | safe }}" />
+    <link rel="stylesheet" type="text/css" href="/main.css" />
+    {% block headers %} {% endblock %}
+    <link rel="icon" href="/favicon.ico" />
+</head>
+
+<body>
+    <nav>
+        <a href="/">Home</a><a href="/about">About</a><a href="/blog">Blog</a><a href="/recipes">Recipes</a>
+    </nav>
+    <h1>{% block title %} {% endblock %}</h1>
+    {% block posttitle %} {% endblock %}
+    </header>
+    <main>{% block content %} {% endblock %}</main>
+</body>
+
+</html>
