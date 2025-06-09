@@ -1,0 +1,46 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="author" content="Brian Rice" />
+    <meta name="    <meta name=" viewport" content="width=device-width" />
+    <title> What Exactly is a Data Mesh? </title>
+    <link rel="canonical" href="https://brianrice2.github.io/blog/data-mesh/" />
+    <link rel="stylesheet" type="text/css" href="/main.css" />
+     
+    <link rel="icon" href="/favicon.ico" />
+</head>
+
+<body>
+    <nav>
+        <a href="/">Home</a><a href="/about">About</a><a href="/blog">Blog</a><a href="/recipes">Recipes</a>
+    </nav>
+    <h1> What Exactly is a Data Mesh? </h1>
+     
+    </header>
+    <main> <p>There’s a lot of talk around data meshes these days. It didn’t click for me until I read <a href="https://martinfowler.com/articles/data-monolith-to-mesh.html">How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh</a>.</p>
+<p><strong>A data mesh is like a microservice architecture for data.</strong></p>
+<p>Applying a service-oriented architecture to applications and programs leads to microservices, which have been around in the software industry for some time now. Applying the same pattern to <em>data</em> leads to a data mesh.</p>
+<p>Whether a team’s product is an application or data:</p>
+<ul>
+<li>Domain teams are responsible for maintaining their own product</li>
+<li>They define an API for other teams to interact with their product</li>
+<li>They define SLOs to make promises around the quality and characteristics of their product</li>
+<li>Other products query/pull as <em>they</em> need, rather than pushing or publishing outward</li>
+<li>Implementation details are left up to the product team. Just like an application may choose which libraries it wants to use to deliver its results, a data team can choose how and where to store its intermediate data or how to structure its data transformation pipelines.</li>
+<li>Products are cataloged in some centrally available discovery tool so that the organization has a place for finding products</li>
+<li>Care must be taken to ensure that global definitions of the same concept are in line (in other words, the same ideas are represented consistently across the organization)</li>
+<li>Products are secure, etc.</li>
+</ul>
+<p>Readings and resouces:</p>
+<ol>
+<li><a href="https://martinfowler.com/articles/data-monolith-to-mesh.html">How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh</a></li>
+<li><a href="https://martinfowler.com/articles/data-mesh-principles.html">Data Mesh Principles and Logical Architecture</a></li>
+<li><a href="https://www.starship.xyz/medium_blog_posts/dodging-the-data-bottleneckdata-mesh-at-starship/">Dodging the data bottleneck — data mesh at Starship</a></li>
+</ol>
+ </main>
+</body>
+
+</html>

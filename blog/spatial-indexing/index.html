@@ -1,0 +1,53 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="author" content="Brian Rice" />
+    <meta name="    <meta name=" viewport" content="width=device-width" />
+    <title> Spatial Indexing </title>
+    <link rel="canonical" href="https://brianrice2.github.io/blog/spatial-indexing/" />
+    <link rel="stylesheet" type="text/css" href="/main.css" />
+     
+    <link rel="icon" href="/favicon.ico" />
+</head>
+
+<body>
+    <nav>
+        <a href="/">Home</a><a href="/about">About</a><a href="/blog">Blog</a><a href="/recipes">Recipes</a>
+    </nav>
+    <h1> Spatial Indexing </h1>
+     
+    </header>
+    <main> <p>Compared to regular B- and B+-trees used for relational table indexes, spatial indexes are key for multidimensional data. Instead of indexing the features themselves, they index the <em>bounding boxes</em> (minimum bounding rectangles) of the features. This allows the DBMS to do a quick check to identify if the MBR is relevant; if it is, it can do a slower but more precise check.</p>
+<h2 id="quadtrees">Quadtrees</h2>
+<p><em>Quadtrees</em> are a type of tree data structure commonly used to divide two-dimensional space into quadrants (typically rectangles, although regions may have arbitrary shapes). A quadtree requires that every internal node has exactly four children—each child is either a point or a smaller region.</p>
+<p>However, quadtrees are not balanced and are divided according to insertion order, so can degenerate in cases of data skew or unfavorable insertion order.</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Quadtree">Wikipedia</a></li>
+<li><a href="https://jimkang.com/quadtreevis/">Jim Kang</a></li>
+</ul>
+<p><img src="https://brianrice2.github.io/blog/spatial-indexing/quadtree.png" alt="Quadtree. From https://opendsa-server.cs.vt.edu/ODSA/Books/fisd/cs3/fall-2020/1B_-_Adv_CS/html/_images/PRexamp.png" /></p>
+<h2 id="r-trees">R-trees</h2>
+<p>The <em>R-tree</em> is the natural extension of the B-tree to higher dimensions. The root node has at least two children, and each internal node has between m and M children. Each node’s stored data is the minimum bounding rectangle for its children.</p>
+<p><img src="https://brianrice2.github.io/blog/spatial-indexing/r-tree.jpg" alt="R-tree. From https://media.springernature.com/original/springer-static/image/prt%3A978-0-387-39940-9%2F18/MediaObjects/978-0-387-39940-9_18_Part_Fig3-300_HTML.jpg" /></p>
+<h2 id="grid-files">Grid files</h2>
+<p><em>Grid files</em> index points only, and use a k-dimensional array as an index which points to larger data pages/buckets for storage.</p>
+<p><img src="https://brianrice2.github.io/blog/spatial-indexing/grid-files.png" alt="Grid file. From https://raw.github.com/alexeygrigorev/wiki-figures/master/ulb/dbsa/ind/grid-files-ex1.png" /></p>
+<h2 id="k-d-b-trees">k-d-B trees</h2>
+<p><em>k-d-B-trees</em> subdivide space into two half-spaces according to comparison in one dimension (like a k-d tree), but keep the tree balanced like a B-tree.</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/K-D-B-tree">k-d-B trees</a></li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/kdbtree.html">k-d-B trees</a></li>
+<li><a href="https://en.wikipedia.org/wiki/K-d_tree">k-d trees</a></li>
+</ul>
+<p><img src="https://brianrice2.github.io/blog/spatial-indexing/kdb-tree.png" alt="k-d-B tree. From https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/KBDtreeStructure.png/220px-KBDtreeStructure.png" /></p>
+<h2 id="other-references">Other References</h2>
+<ul>
+<li><a href="https://postgis.net/workshops/postgis-intro/indexing.html#how-spatial-indexes-work">PostGIS</a></li>
+</ul>
+ </main>
+</body>
+
+</html>

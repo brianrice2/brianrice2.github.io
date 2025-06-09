@@ -1,0 +1,36 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="author" content="Brian Rice" />
+    <meta name="    <meta name=" viewport" content="width=device-width" />
+    <title> Abstractions - The Most Important Piece of Building Software? </title>
+    <link rel="canonical" href="https://brianrice2.github.io/blog/simple-software/" />
+    <link rel="stylesheet" type="text/css" href="/main.css" />
+     
+    <link rel="icon" href="/favicon.ico" />
+</head>
+
+<body>
+    <nav>
+        <a href="/">Home</a><a href="/about">About</a><a href="/blog">Blog</a><a href="/recipes">Recipes</a>
+    </nav>
+    <h1> Abstractions - The Most Important Piece of Building Software? </h1>
+     
+    </header>
+    <main> <p>During my limited time as a software engineer so far, one thing has risen to be a pretty good indicator of how difficult it will be to build and maintain the project: the abstractions. The ability to identify and separate different moving parts is a very valuable skill to have.</p>
+<p>In practice, this comes down to a few more specific things:</p>
+<ul>
+<li>Logical and relevant grouping of code</li>
+<li>Having functions do only one thing</li>
+<li>Naming functions based on verbs and behaviors (or <em>what</em> is being done) rather than implementation (<em>how</em> it’s being done)</li>
+</ul>
+<p>Besides the Holy Grails of Software like SOLID and DRY adherence, it also just makes the workday more enjoyable. I have a lot easier time thinking about what the function <em>should do</em> and <em>actually does</em> when  it’s written at a third-grade level, and this also means that it’s easy to write simple tests on its behavior.</p>
+<p>Plus, a good set of abstractions makes future improvements really easy (Everybody has their own take on writing futureproof software, but right now I’m in the boat of writing clear and simple code that meets the requirements <em>without</em> trying to write tomorrow’s software today. People are pretty bad about predicting what we’ll need in the future – politicians, stock traders, and, yes, even programmers). Got a slow search or sort algorithm? Swap out the code in that one function and you’re all set. Need to use a different SQL templating framework? No problem. The database connection mechanism probably shouldn’t change.</p>
+<p>In physical training we like to shoot for the <a href="https://rpstrength.com/training-volume-landmarks-muscle-growth/">minimum effective volume</a>, which is just enough volume to actually improve without nearly as much injury risk as the <em>most</em> you can tolerate. But in software, things skew towards the maximum tolerable complexity – the teetering point at which we can just barely maintain the system. With all due respect, developing a software project that assumes my coworkers are at a high school level would probably (hopefully?) yield clarity and simplicity in the code, tests, and documentation. Your coworkers won’t walk away thinking you’re a genius, but they’ll walk away knowing what’s going on. In the era of hypercomplexity, Stupid Simple Software is the way for our work to outlive our tenure.</p>
+ </main>
+</body>
+
+</html>

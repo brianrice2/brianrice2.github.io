@@ -1,0 +1,48 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="author" content="Brian Rice" />
+    <meta name="    <meta name=" viewport" content="width=device-width" />
+    <title> Horizontal vs Vertical Scalability </title>
+    <link rel="canonical" href="https://brianrice2.github.io/blog/scalability-horizontal-vertical/" />
+    <link rel="stylesheet" type="text/css" href="/main.css" />
+     
+    <link rel="icon" href="/favicon.ico" />
+</head>
+
+<body>
+    <nav>
+        <a href="/">Home</a><a href="/about">About</a><a href="/blog">Blog</a><a href="/recipes">Recipes</a>
+    </nav>
+    <h1> Horizontal vs Vertical Scalability </h1>
+     
+    </header>
+    <main> <h2 id="what-is-scalability">What is scalability?</h2>
+<p>Simply put, <em>scalability</em> is the ability to adjust the capacity of a system (up or down) to efficiently meet demand. The growth of the system can be in different dimensions (size of data, concurrency requirements, and interaction rates) and can typically be measured by work throughput (requests per second, concurrent users, data processing, etc.).</p>
+<h2 id="types-of-scaling">Types of scaling</h2>
+<h3 id="vertical-scaling">Vertical scaling</h3>
+<p><em>Vertical scaling</em> powers up a single machine to increase performance. This might normally be done by upgrading the hardware or increasing the network throughput:</p>
+<ul>
+<li>Increase the I/O capacity via hard drives in <a href="https://en.wikipedia.org/wiki/RAID">RAID arrays</a></li>
+<li>Reduce I/O access times by switching to SSDs</li>
+<li>Reduce the number of I/O operations required by increasing RAM</li>
+<li>Increase network throughput by upgrading network interfaces or installing new ones</li>
+<li>Increase the number of CPU cores or make existing ones more powerful</li>
+</ul>
+<p>For example, in the cloud it’s easy to increase processing capacity by upgrading the instance type—just select your new type and reboot the VM. It’s quite easy to develop within this paradigm, as everything runs on one server (avoiding slow cross-machine communication) and most programming languages support multithreading.</p>
+<p>Although these upgrades are relatively simple, but can quickly become very expensive, and because the highest-end hardware is very expensive you get relatively poor performance for the price. The capacity of the system is still limited by the power of the one machine, and the machine acts as a single point of failure. Depending on which area you want to scale, it can sometimes take a long time to scale up as well.</p>
+<h3 id="horizontal-scaling">Horizontal scaling</h3>
+<p><em>Horizontal scaling</em> is needed to perform at the global scale. Instead of upgrading the power of one machine, we increase the system’s capacity by adding more servers. Ideally all workers are identical and replaceable, and if one goes down, we can add a new one to take its place (<a href="https://devops.stackexchange.com/questions/653/what-is-the-definition-of-cattle-not-pets">cattle not pets</a>).</p>
+<p>There is significant architectural overhead with adopting this approach, so it requires a big upfront investment but pays off later in scale. Communication between machines is now required in order to coordinate work, and this introduces a slew of potential problems and slowdowns. Once your application is set up to allow for this type of scaling, you can simply purchase more VM instances and they’re available within minutes. Having replaceable workers also provides helpful redundancy in case of failures.</p>
+<h2 id="references">References</h2>
+<ul>
+<li>[Northwestern CS 310: Scalable Software Architectures](<a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/-">https://www.mccormick.northwestern.edu/computer-science/academics/courses/-</a> <a href="https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655">Web Scalability for Startup Engineers</a></li>
+<li><a href="https://lethain.com/introduction-to-architecting-systems-for-scale/">Introduction to Architecting Systems for Scale</a></li>
+</ul>
+ </main>
+</body>
+
+</html>
