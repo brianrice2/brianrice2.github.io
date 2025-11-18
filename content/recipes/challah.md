@@ -42,13 +42,19 @@ Turn the dough onto a lightly floured surface and knead until smooth.
 
 Transfer the dough to a large, lightly oiled bowl and turn to coat. Cover and let rest for ~1 hour until doubled in size.
 
-Punch down the dough, cover, and let rise again for another 30 minutes. Start preheating the oven at 375ºF.
+Punch down the dough, cover, and let rise again for another 30 minutes.
 
 &nbsp;
 
 3. Braiding
 
-See [this video](https://youtu.be/cMM2LJz4-v8?si=-ofex9ZcY54wa4hR) for 3- and 4-strand braiding instructions!
+Start preheating the oven at 375ºF.
+
+Divide your dough into two (for two loaves), and then into additional pieces depending on your desired braiding.
+
+Gently roll each piece into a log, cover, and let rest for 20 minutes.
+
+See [this video](https://youtu.be/cMM2LJz4-v8?si=-ofex9ZcY54wa4hR) for 3- and 4-strand braiding instructions, and [this one](https://www.youtube.com/watch?v=GeaYznp2zdk) for a 6-strand loaf!
 
 &nbsp;
 
