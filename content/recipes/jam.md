@@ -11,7 +11,7 @@ Total time: ~30 minutes
 
 - 1 pound fruit, chopped
 - 1/2 to 2/3 cup (100-130 g) granulated sugar
-- 3 Tbsp lemon juice
+- 3 Tbsp lemon juice (approx. 1 Aldi lemon fully squeezed)
 
 ## Preparation
 
