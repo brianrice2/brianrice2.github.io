@@ -1,6 +1,5 @@
 ---
 title: Focaccia
-date: 2023-07-07
 ---
 
 (Based on [Ethan Chlebowski's recipe](https://www.ethanchlebowski.com/cooking-techniques-recipes/how-to-make-focaccia), but without all the ads and page bloat that crash my iPad -- but if you're here, you should also check out [King Arthur's small-batch cheesy focaccia recipe](https://www.kingarthurbaking.com/recipes/small-batch-cheesy-focaccia-recipe) too)

@@ -1,6 +1,5 @@
 ---
 title: Green Smoothies
-date: 2023-10-19
 ---
 
 ## Green Chocolate Banana

@@ -1,6 +1,5 @@
 ---
 title: Korean Lentils
-date: 2024-04-12
 ---
 
 Serves 3

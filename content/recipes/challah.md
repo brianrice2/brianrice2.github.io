@@ -1,6 +1,5 @@
 ---
 title: Challah
-date: 2023-12-29
 ---
 
 Based on the [NYT recipe](https://cooking.nytimes.com/recipes/7199-my-favorite-challah), but with some important missing information included.

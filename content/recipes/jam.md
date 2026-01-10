@@ -1,6 +1,5 @@
 ---
 title: Refrigerator Jam
-date: 2025-11-15
 ---
 
 As simple as it gets.
