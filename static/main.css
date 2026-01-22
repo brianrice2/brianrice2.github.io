@@ -1,13 +1,17 @@
+html {
+    -webkit-text-size-adjust: 100%;
+}
+
 body {
     margin: 15px auto;
     max-width: 800px;
     line-height: 1.6;
-    font-size: 15px;
+    font-size: 16px;
     padding: 0 10px;
     /* Use system fonts */
     font-family: system-ui, sans-serif;
     color: #222;
-    padding-bottom: 500px;
+    padding-bottom: 120px;
 }
 
 .typst-display {
@@ -85,13 +89,12 @@ nav {
     font-size: 25px;
     text-align: center;
     line-height: 1.2;
+}
 
-    a {
-        display: inline-block;
-        margin-right: 15px;
-        margin-left: 15px;
-        text-decoration: none;
-    }
+nav a {
+    display: inline-block;
+    margin: 0 12px;
+    text-decoration: none;
 }
 
 table {
@@ -188,6 +191,37 @@ main>p:last-child:after {
 
     pre {
         font-size: 14px;
+    }
+}
+
+/* Standard responsive breakpoint using viewport width */
+@media (max-width: 600px) {
+    body {
+        font-size: 18px;
+        max-width: 100%;
+        margin: 10px;
+        padding: 0 12px;
+        padding-bottom: 80px;
+    }
+
+    nav {
+        font-size: 18px;
+        padding: 6px 0;
+    }
+
+    nav a {
+        margin: 0 8px;
+        display: inline-block;
+    }
+
+    pre {
+        font-size: 15px;
+    }
+
+    h1,
+    h2,
+    h3 {
+        line-height: 1.15;
     }
 }
 
