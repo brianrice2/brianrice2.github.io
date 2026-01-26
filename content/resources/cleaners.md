@@ -1,6 +1,6 @@
-+++
+---
 Title: Natural Cleaners
-+++
+---
 
 ### All-purpose cleaner
 
