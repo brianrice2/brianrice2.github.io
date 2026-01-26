@@ -1,5 +1,5 @@
 +++
 title = "Resources"
-sort_by = "date"
-template = "blog.html"
+sort_by = "title"
+template = "index.html"
 +++
