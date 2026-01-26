@@ -29,7 +29,7 @@ At the end of proofing, the dough should be well risen and puffy with gas bubble
 
 &nbsp;
 
-4. Baking
+3. Baking
 
 Gently dimple the proofed dough with wet fingers. Drizzle olive oil over the dough. Sprinkle flaky salt and fresh herbs over the top. If using other toppings like grape tomatoes or olives, add them now too and gently press into the dough.
 
