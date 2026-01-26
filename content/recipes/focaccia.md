@@ -58,8 +58,6 @@ Cover the pan and let the focaccia proof for 45-60 minutes. At the end of proofi
 
 4. Baking
 
-Dimple the proofed dough with wet fingers by gently pushing to the bottom of the pan, but do not accidentally go through the dough.
-
-Whisk the olive oil and water together with a fork until it emulsifies, about 2-3 minutes. Pour the mixture over the focaccia where it will pool into the dimples. Sprinkle flaky salt and fresh herbs over the top. If using other toppings like grape tomatoes, or olives, add them now too and gently press into the dough.
+Gently dimple the proofed dough with wet fingers. Whisk the olive oil and water together with a fork until it emulsifies, about 2-3 minutes. Drizzle over the dough. Sprinkle flaky salt and fresh herbs over the top. If using other toppings like grape tomatoes or olives, add them now too and gently press into the dough.
 
 Place on the middle rack of the oven and bake for 20-25 minutes until golden on top. Let rest under a cloth on a wire rack for 5 minutes before slicing.
