@@ -7,9 +7,9 @@ title: Unleavened Bread
 ## Ingredients
 
 - 1 cup (125g) flour
-- 1 cup (227g) water
-- 1 Tbsp spices (cumin, garam masala, ...), ground nuts, etc.
+- 1 cup (225g) water
 - Dash of salt
+- 1 Tbsp spices (cumin, garam masala, ...), ground nuts, etc.
 
 ## Preparation
 
@@ -24,7 +24,7 @@ Mix in a bowl with a fork until the consistency is like a thick pancake batter. 
 ## Ingredients
 
 - 2 cups (250g) flour
-- 1 cup (227g) water
+- 3/4 cup (169g) water
 - Dash of salt
 - Spices
 
@@ -32,4 +32,4 @@ Combine dry ingredients, then water. Mix and then knead for 5 minutes.
 
 Split into 5-7 pieces, shaping each into a flat 6" pancake.
 
-Cook on a hot skillet for ~2 minutes each side.
+Fry in a hot skillet for a few minutes on each side.
