@@ -10,8 +10,7 @@ For the dough:
 - 455g water
 - 8g instant yeast
 - 12g salt
-
-- 20g? olive oil
+- 20-30g olive oil
 
 ## Preparation
 
@@ -23,7 +22,7 @@ Whisk together the dry ingredients. Add the water and mix until no dry flour rem
 
 2. Second rise
 
-Drizzle olive oil into a 9x13 baking pan until the bottom is covered (about a tablespoon?). Deflate the dough and turn it onto the pan. Cover with greased plastic wrap and let rest for 2-4 hours.
+Drizzle olive oil into a 9x13 baking pan until the bottom is covered (a tablespoon or so). Deflate the dough and turn it onto the pan. Cover with greased plastic wrap and let rest for 2-4 hours.
 
 At the end of proofing, the dough should be well risen and puffy with gas bubbles. Preheat the oven to 450ºF ([or 425ºF if baking in glass](https://www.kingarthurbaking.com/blog/2018/03/29/glass-or-metal-or-stoneware#:~:text=The%20standard%20advice%20for%20baking,up%20to%2010%20minutes%20longer.)).
 
