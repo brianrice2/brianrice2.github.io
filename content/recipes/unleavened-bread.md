@@ -17,7 +17,11 @@ Preheat the oven to 400ºF.
 
 Mix in a bowl with a fork until the consistency is like a thick pancake batter. Fry on the stove with olive oil for a few minutes, then put into the oven for 40 minutes until browned and the edges are coming away from the pan.
 
+&nbsp;
+
 ------
+
+&nbsp;
 
 # Knead/Fry Method
 
