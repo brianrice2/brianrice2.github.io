@@ -1,5 +1,5 @@
 ---
-Title: Natural Cleaners
+title: Natural Cleaners
 ---
 
 ### All-purpose cleaner
