@@ -1,5 +1,5 @@
 +++
 title = "Resources"
 sort_by = "title"
-template = "index.html"
+template = "recipes.html"
 +++
