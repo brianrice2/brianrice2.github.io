@@ -1,8 +1,7 @@
 ---
 title: Challah
+section: Baking
 ---
-
-Based on the [NYT recipe](https://cooking.nytimes.com/recipes/7199-my-favorite-challah), but with some important missing information included.
 
 Total time: ~3.5 hours
 

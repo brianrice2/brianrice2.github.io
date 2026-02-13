@@ -10,3 +10,7 @@ title: Vanilla Extract
 ## Preparation
 
 Combine in a jar. Seal and store in a cool, dark place for 3-6 months, shaking the jar every few weeks.
+
+## Variations
+
+- Try bourbon or another alcohol instead of the traditional vodka

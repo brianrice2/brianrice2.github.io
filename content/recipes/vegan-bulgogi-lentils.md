@@ -2,8 +2,6 @@
 title: Korean Lentils
 ---
 
-Serves 3
-
 ## Ingredients
 
 - 1.5 cups (1/2 lb) dry green/brown lentils, inspected and rinsed
@@ -38,7 +36,3 @@ Next, prepare the sauce. Whisk together the ingredients in a small bowl and save
 When the lentils are done, drain them. Add sesame oil to the pot and sear the mushrooms over medium-high heat, in batches if needed. While they cook, prepare your broccoli.
 
 Add the sauce and cooked lentils to the mushrooms, stirring up any brown bits from the bottom of the pan, and lower the heat to medium-low. Simmer until the sauce is reduced to your liking.
-
-## Notes
-
-Taken and tweaked from <https://crumbsandcaramel.com/korean-lentils-vegan-bulgogi/>.
