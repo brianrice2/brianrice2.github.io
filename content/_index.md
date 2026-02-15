@@ -8,13 +8,13 @@ lang = "en"
 footer = false
 
 # If you don't want to display id/bio/avatar, simply comment out that line
-name = ""
+name = "Brian's Rice"
 id = ""
 bio = ""
 avatar = ""
 links = []
 
-# Show a few recent posts in home page
+# Show a few recent posts in home page?
 recent = false
 recent_max = 15
 recent_more_text = "more »"
