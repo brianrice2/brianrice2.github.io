@@ -1,7 +1,7 @@
----
-title: MSiA Survival Guide
-date: 2021-12-01
----
++++
+title = "MSiA Survival Guide"
+date = 2021-12-01
++++
 
 The MS in Analytics program, affectionately referred to as MSiA, is a full-time analytics (data science) program in the McCormick School of Engineering at Northwestern. It's a fairly intense program, requiring significant time and financial commitments, but boasts solid industry experiences and good career outcomes for graduates. The curriculum focuses primarily on breadth, especially considering the quarter system, and leaves the depth-building experiences to practicum/capstone/extracurricular projects and outside research/practice.
 

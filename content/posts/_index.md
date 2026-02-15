@@ -1,16 +1,16 @@
 +++
-title = "Resources"
+title = "My Blog"
 description = ""
-sort_by = "title"
-template = "undated-blog.html"
-page_template = "undated-post.html"
+sort_by = "date"
+template = "blog.html"
+page_template = "post.html"
 insert_anchor_links = "right"
 generate_feeds = false
 
 [extra]
 lang = "en"
 
-title = "Resources"
+title = "Posts"
 subtitle = ""
 
 date_format = "%b %-d, %Y"
@@ -22,4 +22,7 @@ comment = false      # enable comment
 copy = true          # show copy button in code block
 
 outdate_alert = false
+outdate_alert_days = 99999
+outdate_alert_text_before = "This article was last updated "
+outdate_alert_text_after = " days ago and may be out of date."
 +++

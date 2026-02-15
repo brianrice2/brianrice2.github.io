@@ -1,6 +1,6 @@
----
-title: Vanilla Extract
----
++++
+title = "Vanilla Extract"
++++
 
 ## Ingredients
 

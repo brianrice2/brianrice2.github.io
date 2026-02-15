@@ -1,7 +1,7 @@
----
-title: Collapse Now and Avoid the Rush
-date: 2024-11-07
----
++++
+title = "Collapse Now and Avoid the Rush"
+date = 2024-11-07
++++
 
 Introduction here: [resilience.org](https://www.resilience.org/stories/2012-06-06/collapse-now-and-avoid-rush/)
 

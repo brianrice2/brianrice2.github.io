@@ -1,6 +1,6 @@
----
-title: Refrigerator Jam
----
++++
+title = "Refrigerator Jam"
++++
 
 As simple as it gets.
 

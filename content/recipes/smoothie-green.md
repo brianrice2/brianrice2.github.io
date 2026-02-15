@@ -1,6 +1,6 @@
----
-title: Smoothies - Green
----
++++
+title = "Smoothie - Green"
++++
 
 ## Green Chocolate Banana
 

@@ -1,7 +1,6 @@
----
-title: Challah
-section: Baking
----
++++
+title = "Challah"
++++
 
 Total time: ~3.5 hours
 

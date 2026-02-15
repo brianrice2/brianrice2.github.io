@@ -1,6 +1,6 @@
----
-title: Pumpkin Pie Smoothie
----
++++
+title = "Smoothie - Pumpkin Pie"
++++
 
 ## Ingredients
 

@@ -1,6 +1,6 @@
----
-title: Deodorize Your Climbing Shoes
----
++++
+title = "Deodorize Your Climbing Shoes"
++++
 
 Even better than Boot Bananas.
 

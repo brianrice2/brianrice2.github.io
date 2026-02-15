@@ -1,8 +1,7 @@
----
-title: Sewing Guide - Small Simple Duffel
-toc: true
-draft: true
----
++++
+title = "Sewing Guide - Small Simple Duffel"
+toc = true
++++
 
 ![Duffel bag](duffel-main.jpeg)
 

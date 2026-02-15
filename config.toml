@@ -1,13 +1,49 @@
 # The URL the site will be built for
 base_url = "https://brianrice2.github.io"
+theme = "serene"
 
-compile_sass = false
-
-# Whether to build a search index to be used later on by a JavaScript library
-build_search_index = false
+default_language = "en"
+output_dir = "public"
+compile_sass = true
+minify_html = false # Keep this false, as it may cause issues with some styles
+build_search_index = false # Keep this false, search is temporarily unsupported
+generate_feeds = false # Whether to generate a feed file in root, read docs for more info about rss feed
+feed_filenames = ["feed.xml"] # "feed.xml" | "atom.xml" | "rss.xml", read docs for more info
+taxonomies = [{ name = "tags" }, { name = "categories" }]
 
 [markdown]
-smart_punctuation = true
+render_emoji = false
+external_links_target_blank = false
+external_links_no_follow = true
+external_links_no_referrer = true
+smart_punctuation = false
+github_alerts = false
+
+[markdown.highlighting]
+style = "class"
+light_theme = "github-light"
+dark_theme = "github-dark"
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
 
 [extra]
-# Put all your custom variables here
+sections = [
+    { name = "posts", path = "/posts", is_external = false },
+    { name = "recipes", path = "/recipes", is_external = false },
+    { name = "resources", path = "/resources", is_external = false }
+]
+blog_section_path = "/posts"
+
+back_link_text = "Back"  # Text of the back button
+force_theme    = false   # false | "light" | "dark"
+
+footer_copyright = ""
+footer_credits   = false  # Whether to show "Built with zola and serene" in footer
+
+not_found_error_text   = "404 Not Found"
+not_found_recover_text = "« back to home »"
+
+reaction = false

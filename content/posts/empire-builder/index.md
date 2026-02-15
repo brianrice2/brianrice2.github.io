@@ -1,7 +1,10 @@
----
-title: Empire Builder
-date: 2024-08-04
----
++++
+title = "Empire Builder"
+date = 2024-08-04
+
+[extra]
+outdate_alert = false
++++
 
 Last month, I spent 48 hours on Amtrak’s Empire Builder train from Chicago to Seattle. When I tell people that, their responses fall into basically two camps without a lot of in-between: enthusiasm and curiosity, and disgust.
 

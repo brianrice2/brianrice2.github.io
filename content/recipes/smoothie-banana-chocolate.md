@@ -1,6 +1,6 @@
----
-title: Smoothie - Banana Chocolate
----
++++
+title = "Smoothie - Banana Chocolate"
++++
 
 ## Ingredients
 

@@ -1,6 +1,6 @@
----
-title: Korean Lentils
----
++++
+title = "Korean Lentils"
++++
 
 ## Ingredients
 
