@@ -25,3 +25,5 @@ Add the drained chickpeas, tomato sauce, and coconut milk and stir to combine.
 Bring to a boil and then reduce the heat to simmer for about 15 minutes.
 
 Add the kale and cook until wilted nicely, 5 minutes or so. Salt to taste, about 1 tsp.
+
+![Chickpea curry](chickpea-curry.jpeg)
