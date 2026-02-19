@@ -60,3 +60,5 @@ See [this video](https://youtu.be/cMM2LJz4-v8?si=-ofex9ZcY54wa4hR) for 3- and 4-
 Beat the remaining egg and brush on the loaves. Sprinkle on the poppy or sesame seeds if desired - I recommend everything bagel seasoning!
 
 Bake for 32-35 minutes until nicely browned on top.
+
+![Final result](challah.jpeg)

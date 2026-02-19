@@ -33,3 +33,5 @@ At the end of proofing, the dough should be well risen and puffy with gas bubble
 Gently dimple the proofed dough with wet fingers. Drizzle olive oil over the dough. Sprinkle flaky salt and fresh herbs over the top. If using other toppings like grape tomatoes or olives, add them now too and gently press into the dough.
 
 Place on the middle rack of the oven and bake for 20-25 minutes until golden on top. Let rest under a cloth on a wire rack for 5 minutes before slicing.
+
+![Final result](focaccia-overnight.jpeg)
