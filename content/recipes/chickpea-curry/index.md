@@ -2,6 +2,8 @@
 title = "Chickpea Curry"
 +++
 
+![Chickpea curry](chickpea-curry.jpeg)
+
 So many cans.
 
 ## Ingredients
@@ -26,5 +28,3 @@ Add the garlic and, once it's fragrant, add the spices and toast for a minute.
 Add the drained chickpeas, tomato sauce, and coconut milk and stir to combine. Bring to a boil and then simmer for about 15 minutes.
 
 Finally, add the kale and cook until wilted nicely, 5 minutes or so. Salt to taste, about 1 tsp.
-
-![Chickpea curry](chickpea-curry.jpeg)
