@@ -1,6 +1,7 @@
 +++
 title = "Sewing Guide - Small Simple Duffel"
 toc = true
+draft = true
 +++
 
 ![Duffel bag](duffel-main.jpeg)
