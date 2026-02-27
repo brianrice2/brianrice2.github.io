@@ -19,7 +19,7 @@ Mix in a bowl with a fork until the consistency is like a thick pancake batter. 
 
 &nbsp;
 
-++++++
+------
 
 &nbsp;
 
