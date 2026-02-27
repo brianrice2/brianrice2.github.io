@@ -1,5 +1,5 @@
 +++
-title = "Chickpea Curry"
+title = "Coconut Chickpea Curry"
 +++
 
 ![Chickpea curry](chickpea-curry.jpeg)
