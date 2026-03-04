@@ -2,9 +2,11 @@
 title = "Blender Peanut Butter"
 +++
 
+![Peanut butter](peanut-butter.jpeg)
+
 ## Ingredients
 
-4 cups (590g) unsalted dry roasted peanuts
+1 lb (453g) unsalted dry roasted peanuts (yields 12 oz)
 
 ## Preparation
 
