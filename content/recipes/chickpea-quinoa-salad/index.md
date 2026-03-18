@@ -4,11 +4,13 @@ title = "Chickpea Quinoa Salad"
 
 ![Chickpea quinoa salad](main.jpeg)
 
+Makes 5x 32 oz servings
+
 ## Ingredients
 
-- 1 lb dry chickpeas
+- 1 lb dry chickpeas, cooked
 - 1 lb dry quinoa
-- 1-2 cucumbers, diced
+- 1 cucumbers diced
 - 2 bell peppers, diced
 - 1 red onion, diced
 
