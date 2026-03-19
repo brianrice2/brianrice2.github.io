@@ -1,8 +1,8 @@
 +++
-title = "Universal Dough"
+title = "Everything Dough"
 +++
 
-From Brian Lagerstrom: https://www.youtube.com/watch?v=wiCEyvooYYI
+From [Brian Lagerstrom](https://www.youtube.com/watch?v=wiCEyvooYYI)
 
 ## Ingredients
 
