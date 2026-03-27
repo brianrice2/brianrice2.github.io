@@ -21,8 +21,8 @@ In a ~6 qt, high-sided, lidded container, mix together all the ingredients in th
 
 1. Flip cold dough onto a lightly floured surface, sticky side up. Stretch‐and‐fold the left and right sides, then the remaining corners. Flip seam-side down and tighten by tucking and rolling 20–30 times.
 2. Dust a proofing basket and the loaf with flour. Place seam-side up; proof 45–75 minutes at about 80°F.
-3. Preheat a Dutch oven to 480°F (25 minutes).
-4. Turn loaf seam-side down into the hot pot, dust with semolina, score six 1-inch-deep slashes, cover, and bake 20 minutes. Remove lid; bake 25–35 minutes more. Cool on a wire rack.
+3. Preheat a Dutch oven to 450°F (25 minutes).
+4. Turn loaf seam-side down onto some parchment paper and score with a knife or some scissors. Lower into the hot pot, dust with semolina if you like, cover, and bake 20 minutes. Remove lid; bake 25–35 minutes more. Cool on a wire rack.
 
 ### Baguettes
 
