@@ -19,6 +19,8 @@ In a ~6 qt, high-sided, lidded container, mix together all the ingredients in th
 
 ### Large Loaf
 
+![Loaf](loaf.jpeg)
+
 1. Flip cold dough onto a lightly floured surface, sticky side up. Stretch‐and‐fold the left and right sides, then the remaining corners. Flip seam-side down and tighten by tucking and rolling 20–30 times.
 2. Dust a proofing basket and the loaf with flour. Place seam-side up; proof 45–75 minutes at about 80°F.
 3. Preheat a Dutch oven to 450°F (25 minutes).
