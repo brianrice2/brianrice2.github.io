@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark">
+  
+  
+    
+  
+  <meta name="description" content="">
+
+  <title>Plant-Based Meal Plan</title>
+  <link rel="icon" type="image/png" sizes="32x32" href="https://brianrice2.github.io/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://brianrice2.github.io/img/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://brianrice2.github.io/img/apple-touch-icon.png">
+  
+  <style>
+
+  /* light mode colors */
+  body {
+    --primary-color: #5871a2;
+    --primary-pale-color: #5871a233;
+    --primary-decoration-color: #5871a210;
+    --bg-color: #ffffff;
+    --text-color: #2f3030;
+    --text-pale-color: #767676;
+    --text-decoration-color: #a9a9a9;
+    --highlight-mark-color: #5f75b020;
+
+    --callout-note-color: #5871a2;
+    --callout-tip-color: #268556;
+    --callout-important-color: #885fc9;
+    --callout-warning-color: #ab6632;
+    --callout-caution-color: #c64e4e;
+  }
+
+  /* dark mode colors */
+  body.dark {
+    --primary-color: #6f8fd1;
+    --primary-pale-color: #6f8fd166;
+    --primary-decoration-color: #6f8fd112;
+    --bg-color: #1c1c1c;
+    --text-color: #c1c1c1;
+    --text-pale-color: #848484;
+    --text-decoration-color: #5f5f5f;
+    --highlight-mark-color: #8296cb3b;
+
+    --callout-note-color: #6f8fd1;
+    --callout-tip-color: #47976f;
+    --callout-important-color: #9776cd;
+    --callout-warning-color: #ad7a52;
+    --callout-caution-color: #d06161;
+  }
+
+  /* typography */
+  body {
+    --main-font: ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    --code-font: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    --homepage-max-width: 768px;
+    --main-max-width: 768px;
+    --avatar-size: 60px;
+    --font-size: 16px;
+    --line-height: 1.75;
+    --img-border-radius: 0px;
+    --detail-border-radius: 0px;
+    --dark-mode-img-brightness: 0.75;
+    --dark-mode-chart-brightness: 0.75;
+    --inline-code-border-radius: 2px;
+    --inline-code-bg-color: var(--primary-decoration-color);
+    --block-code-border-radius: 0px;
+    --block-code-border-color: var(--primary-color);
+    --detail-border-color: var(--primary-color);
+  }
+
+</style>
+
+  <link rel="stylesheet" href="https://brianrice2.github.io/main.css">
+  
+
+<link id="hl" rel="stylesheet" type="text/css" href="/giallo-light.css" />
+
+
+
+  
+</head>
+
+<body class="post">
+  
+  <script>
+    const theme = sessionStorage.getItem('theme');
+    const match = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    if ((theme && theme == 'dark') || (!theme && match)) {
+      document.body.classList.add('dark');
+      const hl = document.querySelector('link#hl');
+      if (hl) hl.href = 'https://brianrice2.github.io/giallo-dark.css';
+    }
+  </script>
+  
+  
+<div id="wrapper">
+  <div id="blank"></div>
+  <aside>
+    
+    
+    <nav>
+      <ul>
+        
+        <li>
+          <a class="h2" href="#breakfast">Breakfast</a>
+          
+          <ul>
+            
+            <li>
+              <a class="h3" href="#loaded-oatmeal">Loaded Oatmeal</a>
+            </li>
+            
+          </ul>
+          
+        </li>
+        
+        <li>
+          <a class="h2" href="#lunch">Lunch</a>
+          
+        </li>
+        
+        <li>
+          <a class="h2" href="#snacks">Snacks</a>
+          
+        </li>
+        
+        <li>
+          <a class="h2" href="#dinner">Dinner</a>
+          
+          <ul>
+            
+            <li>
+              <a class="h3" href="#simple-rice-and-beans">Simple Rice and Beans</a>
+            </li>
+            
+            <li>
+              <a class="h3" href="#coconut-chickpea-curry">Coconut Chickpea Curry</a>
+            </li>
+            
+            <li>
+              <a class="h3" href="#chickpea-quinoa-salad">Chickpea Quinoa Salad</a>
+            </li>
+            
+            <li>
+              <a class="h3" href="#spiced-chickpeas">Spiced Chickpeas</a>
+            </li>
+            
+            <li>
+              <a class="h3" href="#mujadara">Mujadara</a>
+            </li>
+            
+            <li>
+              <a class="h3" href="#quinoa-black-bean-power-bowl">Quinoa &amp; Black Bean Power Bowl</a>
+            </li>
+            
+            <li>
+              <a class="h3" href="#turmeric-rice-chickpea-bowl">Turmeric Rice &amp; Chickpea Bowl</a>
+            </li>
+            
+          </ul>
+          
+        </li>
+        
+      </ul>
+    </nav>
+    
+    
+    <button id="back-to-top" aria-label="back to top">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-up"><line x1="12" y1="19" x2="12" y2="5"></line><polyline points="5 12 12 5 19 12"></polyline></svg>
+
+    </button>
+    
+  </aside>
+  <main>
+    
+<header>
+  <nav>
+    <a id="back-link" href="https:&#x2F;&#x2F;brianrice2.github.io&#x2F;posts">← Back</a>
+  </nav>
+</header>
+
+
+    <div>
+      
+      
+      
+      
+      <div id="copy-cfg" style="display: none;" data-copy-icon="&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot; width=&quot;18&quot; height=&quot;18&quot;&gt;&lt;path d=&quot;M6.9998 6V3C6.9998 2.44772 7.44752 2 7.9998 2H19.9998C20.5521 2 20.9998 2.44772 20.9998 3V17C20.9998 17.5523 20.5521 18 19.9998 18H16.9998V20.9991C16.9998 21.5519 16.5499 22 15.993 22H4.00666C3.45059 22 3 21.5554 3 20.9991L3.0026 7.00087C3.0027 6.44811 3.45264 6 4.00942 6H6.9998ZM5.00242 8L5.00019 20H14.9998V8H5.00242ZM8.9998 6H16.9998V16H18.9998V4H8.9998V6Z&quot; fill=&quot;currentColor&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt;
+" data-check-icon="&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot; width=&quot;18&quot; height=&quot;18&quot;&gt;&lt;path d=&quot;M10.0007 15.1709L19.1931 5.97852L20.6073 7.39273L10.0007 17.9993L3.63672 11.6354L5.05093 10.2212L10.0007 15.1709Z&quot; fill=&quot;currentColor&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt;
+"></div>
+      
+      <article class="prose">
+        <h1>Plant-Based Meal Plan</h1>
+        <div id="post-info">
+
+          
+        </div>
+
+        <p>Some meal options, mostly for myself, that try to be whole-food, plant-based, low-sodium a la <a rel="nofollow noreferrer external" href="https://nutritionfacts.org/book/how-not-to-die/">How Not to Die</a></p>
+<h2 id="breakfast">Breakfast<a class="zola-anchor" href="#breakfast" aria-label="Anchor link for: breakfast" style="visibility: hidden;"></a>
+</h2>
+<h4 id="loaded-oatmeal">Loaded Oatmeal<a class="zola-anchor" href="#loaded-oatmeal" aria-label="Anchor link for: loaded-oatmeal" style="visibility: hidden;"></a>
+</h4>
+<ul>
+<li>1 cup dry oats, cooked</li>
+<li>2 Tbsp ground flaxseed</li>
+<li>1 handful walnuts</li>
+<li>1 handful blueberries or other berries</li>
+<li>1 banana, sliced, if not using blueberries above</li>
+<li>Spices to taste: cinnamon, cloves, ...</li>
+</ul>
+<h2 id="lunch">Lunch<a class="zola-anchor" href="#lunch" aria-label="Anchor link for: lunch" style="visibility: hidden;"></a>
+</h2>
+<h2 id="snacks">Snacks<a class="zola-anchor" href="#snacks" aria-label="Anchor link for: snacks" style="visibility: hidden;"></a>
+</h2>
+<h2 id="dinner">Dinner<a class="zola-anchor" href="#dinner" aria-label="Anchor link for: dinner" style="visibility: hidden;"></a>
+</h2>
+<h4 id="simple-rice-and-beans">Simple Rice and Beans<a class="zola-anchor" href="#simple-rice-and-beans" aria-label="Anchor link for: simple-rice-and-beans" style="visibility: hidden;"></a>
+</h4>
+<ul>
+<li>3/4 cup dry brown rice, cooked</li>
+<li>1 can beans (1 cup dry)</li>
+<li>1 onion, sliced or chopped</li>
+<li>1 bell pepper or loss-leader vegetable, sliced or chopped</li>
+<li>A few cloves of garlic</li>
+<li>Spices to taste: ground black pepper, cumin, paprika, garam masala, ginger, ...</li>
+</ul>
+<p>To prep:</p>
+<ul>
+<li>2 onions</li>
+<li>2-3 bell peppers</li>
+<li>Garlic</li>
+<li>4.5 cups (2 lb) dry beans</li>
+<li>12 cups water</li>
+</ul>
+<p>Sautee everything besides the beans and water for a few minutes, then add the beans and water. Cook in the pressure cooker according to whatever beans you're using.</p>
+<h4 id="coconut-chickpea-curry"><a href="../chickpea-curry/">Coconut Chickpea Curry</a><a class="zola-anchor" href="#coconut-chickpea-curry" aria-label="Anchor link for: coconut-chickpea-curry" style="visibility: hidden;"></a>
+</h4>
+<h4 id="chickpea-quinoa-salad"><a href="../chickpea-quinoa-salad/">Chickpea Quinoa Salad</a><a class="zola-anchor" href="#chickpea-quinoa-salad" aria-label="Anchor link for: chickpea-quinoa-salad" style="visibility: hidden;"></a>
+</h4>
+<h4 id="spiced-chickpeas">Spiced Chickpeas<a class="zola-anchor" href="#spiced-chickpeas" aria-label="Anchor link for: spiced-chickpeas" style="visibility: hidden;"></a>
+</h4>
+<ul>
+<li>1 can chickpeas</li>
+<li>1/2 head broccoli or other green veggie</li>
+<li>3/4 cup dry brown rice, cooked</li>
+<li>1+ tsp each of smoked paprika, sugar</li>
+<li>Spices to taste: ground black pepper, ...</li>
+</ul>
+<h4 id="mujadara">Mujadara<a class="zola-anchor" href="#mujadara" aria-label="Anchor link for: mujadara" style="visibility: hidden;"></a>
+</h4>
+<ul>
+<li>2 cups green or brown lentils (dry)</li>
+<li>1.5 cups long-grain white rice (dry)</li>
+<li>4 tablespoons olive oil</li>
+<li>3 pieces large yellow onions, thinly sliced</li>
+<li>1 teaspoons cumin</li>
+<li>1 teaspoons cinnamon</li>
+<li>0.5 teaspoons allspice</li>
+<li>6 cups water or vegetable broth</li>
+<li>1.5 teaspoons salt</li>
+<li>1 pieces lemon, juiced</li>
+<li>1 cups plain Greek yogurt or tahini (to serve)</li>
+</ul>
+<p>Caramelize onions (don't rush this): Heat 4 tablespoons olive oil in a large pot over medium-low heat. Add 3 pieces large yellow onions, thinly sliced with a pinch of salt and cook slowly, stirring occasionally, until deeply golden-brown and jammy. This takes patience.</p>
+<p>Reserve topping onions: Scoop out about half the onions and set aside for topping. Add 1 teaspoons cumin, 1 teaspoons cinnamon, and 0.5 teaspoons allspice to the pot and stir for 30 seconds.</p>
+<p>Cook lentils: Add 2 cups green or brown lentils (dry) and 6 cups water or vegetable broth. Bring to a boil, then reduce to a simmer, cover, and cook for 10 minutes</p>
+<p>Add rice &amp; finish: Stir in 1.5 cups long-grain white rice (dry) and 1.5 teaspoons salt, re-cover, and cook until rice is tender and liquid is absorbed.</p>
+<p>Serve: Squeeze in 1 pieces lemon, juiced and fluff with a fork. Serve topped with the reserved caramelized onions and 1 cups plain Greek yogurt or tahini (to serve).</p>
+<h4 id="quinoa-black-bean-power-bowl">Quinoa &amp; Black Bean Power Bowl<a class="zola-anchor" href="#quinoa-black-bean-power-bowl" aria-label="Anchor link for: quinoa-black-bean-power-bowl" style="visibility: hidden;"></a>
+</h4>
+<ul>
+<li>2.5 cups quinoa (dry)</li>
+<li>3 pieces cans black beans (15 oz each), drained &amp; rinsed</li>
+<li>2 cups frozen corn</li>
+<li>1 pieces can diced tomatoes, drained</li>
+<li>3 tablespoons olive oil</li>
+<li>4 pieces garlic cloves, minced</li>
+<li>2 teaspoons cumin</li>
+<li>1 teaspoons chili powder</li>
+<li>2 pieces limes, juiced</li>
+<li>1 teaspoons salt</li>
+<li>1 cups shredded cheddar or crumbled feta (optional)</li>
+</ul>
+<p>Cook quinoa: Rinse 2.5 cups quinoa (dry) under cold water. Combine with 5 cups water and a pinch of salt in a saucepan. Bring to a boil, reduce to low, cover, and cook until water is absorbed and tails appear.</p>
+<p>Toast beans &amp; corn: Heat 3 tablespoons olive oil in a skillet over medium heat. Add 4 pieces garlic cloves, minced, 2 teaspoons cumin, and 1 teaspoons chili powder, stir 5 minutes, then add 3 pieces cans black beans (15 oz each), drained &amp; rinsed and 2 cups frozen corn. Cook until corn is lightly charred, about 5 minutes.</p>
+<p>Add tomatoes &amp; lime: Stir in 1 pieces can diced tomatoes, drained and cook 2 more minutes. Season with 1 teaspoons salt and squeeze in 2 pieces limes, juiced.</p>
+<p>Assemble: Divide quinoa into bowls and top with the bean mixture. Add 1 cups shredded cheddar or crumbled feta (optional) if using.</p>
+<h4 id="turmeric-rice-chickpea-bowl">Turmeric Rice &amp; Chickpea Bowl<a class="zola-anchor" href="#turmeric-rice-chickpea-bowl" aria-label="Anchor link for: turmeric-rice-chickpea-bowl" style="visibility: hidden;"></a>
+</h4>
+<ul>
+<li>2.5 cups long-grain white rice (dry)</li>
+<li>3 pieces cans chickpeas (15 oz each), drained &amp; rinsed</li>
+<li>4 tablespoons olive oil</li>
+<li>1 pieces large yellow onion, diced</li>
+<li>5 pieces garlic cloves, minced</li>
+<li>2 teaspoons turmeric</li>
+<li>1 teaspoons cumin</li>
+<li>1 teaspoons smoked paprika</li>
+<li>1 pieces can diced tomatoes (14.5 oz), drained</li>
+<li>1 teaspoons salt</li>
+<li>1 pieces lemon, juiced</li>
+<li>1 cups plain Greek yogurt or tahini (to serve)</li>
+</ul>
+<p>Cook turmeric rice: Cook 2.5 cups long-grain white rice (dry) with a pinch of salt and 1 tsp of 2 teaspoons turmeric stirred into the cooking water. This turns the rice golden and fragrant.</p>
+<p>Crisp the chickpeas: Pat 3 pieces cans chickpeas (15 oz each), drained &amp; rinsed very dry with a paper towel. Heat 2 tbsp of 4 tablespoons olive oil in a large skillet over medium-high heat. Add chickpeas and cook undisturbed for 6 minutes, then stir and cook another 3 minutes until golden and slightly crispy. Season with half of 1 teaspoons smoked paprika and a pinch of 1 teaspoons salt. Remove and set aside.</p>
+<p>Build the sauce: In the same pan, heat remaining 4 tablespoons olive oil over medium heat. Add 1 pieces large yellow onion, diced and cook until soft, about 10 minutes. Add 5 pieces garlic cloves, minced, 1 teaspoons cumin, remaining 2 teaspoons turmeric and 1 teaspoons smoked paprika, and stir 1 minute. Add 1 pieces can diced tomatoes (14.5 oz), drained and cook until thickened, about 4 minutes.</p>
+<p>Finish &amp; assemble: Return chickpeas to the pan and toss to coat. Season with 1 teaspoons salt and squeeze in 1 pieces lemon, juiced. Serve over rice with a dollop of 1 cups plain Greek yogurt or tahini (to serve).</p>
+
+      </article>
+
+      
+      
+
+      
+      
+    </div>
+
+    
+
+
+<footer>
+  <div class="left">
+    <div class="copyright">
+      
+      
+    </div>
+  </div>
+
+  <div class="right">
+    
+    
+    
+    
+
+    
+    
+    
+    <button id="theme-toggle" aria-label="theme switch">
+      <span class="moon-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18"><path d="M10 7C10 10.866 13.134 14 17 14C18.9584 14 20.729 13.1957 21.9995 11.8995C22 11.933 22 11.9665 22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C12.0335 2 12.067 2 12.1005 2.00049C10.8043 3.27098 10 5.04157 10 7ZM4 12C4 16.4183 7.58172 20 12 20C15.0583 20 17.7158 18.2839 19.062 15.7621C18.3945 15.9187 17.7035 16 17 16C12.0294 16 8 11.9706 8 7C8 6.29648 8.08133 5.60547 8.2379 4.938C5.71611 6.28423 4 8.9417 4 12Z" fill="currentColor"></path></svg>
+</span>
+      <span class="sun-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18"><path d="M12 18C8.68629 18 6 15.3137 6 12C6 8.68629 8.68629 6 12 6C15.3137 6 18 8.68629 18 12C18 15.3137 15.3137 18 12 18ZM12 16C14.2091 16 16 14.2091 16 12C16 9.79086 14.2091 8 12 8C9.79086 8 8 9.79086 8 12C8 14.2091 9.79086 16 12 16ZM11 1H13V4H11V1ZM11 20H13V23H11V20ZM3.51472 4.92893L4.92893 3.51472L7.05025 5.63604L5.63604 7.05025L3.51472 4.92893ZM16.9497 18.364L18.364 16.9497L20.4853 19.0711L19.0711 20.4853L16.9497 18.364ZM19.0711 3.51472L20.4853 4.92893L18.364 7.05025L16.9497 5.63604L19.0711 3.51472ZM5.63604 16.9497L7.05025 18.364L4.92893 20.4853L3.51472 19.0711L5.63604 16.9497ZM23 11V13H20V11H23ZM4 11V13H1V11H4Z" fill="currentColor"></path></svg>
+</span>
+    </button>
+    
+  </div>
+</footer>
+
+
+
+
+
+  </main>
+</div>
+
+  
+<script src="/js/lightense.min.js"></script>
+
+
+  <script src="https://brianrice2.github.io/js/main.js"></script>
+</body>
+
+</html>
