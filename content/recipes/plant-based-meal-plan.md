@@ -59,7 +59,7 @@ Sautee everything besides the beans and water for a few minutes, then add the be
 - 1/2 cup crumbled feta
 - Salt & pepper to taste
 
-#### Spiced Chickpeas
+#### [Crispy Spiced Chickpeas](../spiced-chickpeas/)
 
 - 1 can chickpeas
 - 1/2 head broccoli or other green veggie
@@ -85,7 +85,7 @@ Caramelize onions (don't rush this): Heat 4 tablespoons olive oil in a large pot
 
 Reserve topping onions: Scoop out about half the onions and set aside for topping. Add 1 teaspoons cumin, 1 teaspoons cinnamon, and 0.5 teaspoons allspice to the pot and stir for 30 seconds.
 
-Cook lentils: Add 2 cups green or brown lentils (dry) and 6 cups water or vegetable broth. Bring to a boil, then reduce to a simmer, cover, and cook for 10 minutes 
+Cook lentils: Add 2 cups green or brown lentils (dry) and 6 cups water or vegetable broth. Bring to a boil, then reduce to a simmer, cover, and cook for 10 minutes
 
 Add rice & finish: Stir in 1.5 cups long-grain white rice (dry) and 1.5 teaspoons salt, re-cover, and cook until rice is tender and liquid is absorbed.
 
