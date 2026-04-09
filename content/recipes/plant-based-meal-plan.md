@@ -44,6 +44,21 @@ Sautee everything besides the beans and water for a few minutes, then add the be
 
 #### [Chickpea Quinoa Salad](../chickpea-quinoa-salad/)
 
+#### Jennifer Aniston Salad
+
+- 1 cup dry quinoa or bulgur
+- 2 cups water
+- 1 cup cucumber, chopped
+- 1/2 cup parsley, chopped
+- 1/2 cup mint, chopped
+- 1/3 cup red onion, chopped
+- 1/2 cup pistachios, chopped
+- 1 can chickpeas, drained and rinsed
+- 2 lemons, juiced (5-6 Tbsp)
+- 1/4 cup olive oil
+- 1/2 cup crumbled feta
+- Salt & pepper to taste
+
 #### Spiced Chickpeas
 
 - 1 can chickpeas
