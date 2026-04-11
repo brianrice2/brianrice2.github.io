@@ -2,6 +2,15 @@
 title = "Smoothie - Green"
 +++
 
+## Brooke Goldner Daily Drinker
+
+- 75% of the blender packed kale
+- Up to 1/2 cup flaxseeds
+- 1 ripe banana & frozen mango the rest of the way (or blueberries, pineapple, ...)
+- Water up to the top of the kale
+
+Blend for 2-3 minutes!!
+
 ## Super Green
 
 - 2 cups packed fresh baby spinach
