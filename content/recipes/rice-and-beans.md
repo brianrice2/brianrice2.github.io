@@ -1,5 +1,5 @@
 +++
-title = “Rice and Beans - Many Ways”
+title = "Rice and Beans - Many Ways"
 draft = true
 +++
 
@@ -23,7 +23,7 @@ Black beans
 ### Indian
 
 Chickpeas
- 
+
 - 1 tbsp curry powder
 - 1/2 tsp cinnamon
 - 1 can diced tomatoes with green chilies
