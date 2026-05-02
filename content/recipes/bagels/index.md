@@ -39,7 +39,7 @@ Line two large baking sheets with parchment paper and brush lightly with oil.
 
 One ball at a time, roll it out with your palms into a 9" rope, tapering the ends slightly. Wrap the rope around one hand where your palm and fingers meet, overlapping the ends by 1-2", and roll the dough under your hand back and forth several times to seal. Slip the ring of dough off your hand and stretch it to even out the thickness all the way around - we're shooting for about 4" across. Place it on the baking sheet and move on to the next one.
 
-Finally, cover each baking sheet with plastic wrap and then a damp towel. Transfor to the refrigerator for 4-24 hours.
+Finally, cover each baking sheet with plastic wrap and then a damp towel. Transfer to the refrigerator for 4-24 hours.
 
 # Day 2
 
