@@ -94,24 +94,24 @@ Serve: Squeeze in 1 pieces lemon, juiced and fluff with a fork. Serve topped wit
 #### Quinoa & Black Bean Power Bowl
 
 - 2.5 cups quinoa (dry)
-- 3 pieces cans black beans (15 oz each), drained & rinsed
+- 3 cans black beans, drained & rinsed
 - 2 cups frozen corn
-- 1 pieces can diced tomatoes, drained
+- 1 can diced tomatoes, drained
 - 3 tablespoons olive oil
-- 4 pieces garlic cloves, minced
+- 4 garlic cloves, minced
 - 2 teaspoons cumin
 - 1 teaspoons chili powder
-- 2 pieces limes, juiced
+- 2 limes, juiced
 - 1 teaspoons salt
 - 1 cups shredded cheddar or crumbled feta (optional)
 
 Cook quinoa: Rinse 2.5 cups quinoa (dry) under cold water. Combine with 5 cups water and a pinch of salt in a saucepan. Bring to a boil, reduce to low, cover, and cook until water is absorbed and tails appear.
 
-Toast beans & corn: Heat 3 tablespoons olive oil in a skillet over medium heat. Add 4 pieces garlic cloves, minced, 2 teaspoons cumin, and 1 teaspoons chili powder, stir 5 minutes, then add 3 pieces cans black beans (15 oz each), drained & rinsed and 2 cups frozen corn. Cook until corn is lightly charred, about 5 minutes.
+Toast beans & corn: Heat 3 tablespoons olive oil in a skillet over medium heat. Add garlic, cumin, and chili powder, stir 5 minutes, then add the black beans and corn. Cook until corn is lightly charred, about 5 minutes.
 
-Add tomatoes & lime: Stir in 1 pieces can diced tomatoes, drained and cook 2 more minutes. Season with 1 teaspoons salt and squeeze in 2 pieces limes, juiced.
+Add tomatoes & lime: Stir in diced tomatoes and cook 2 more minutes. Season with salt and lime juice.
 
-Assemble: Divide quinoa into bowls and top with the bean mixture. Add 1 cups shredded cheddar or crumbled feta (optional) if using.
+Assemble: Divide quinoa into bowls and top with the bean mixture. Add shredded cheddar or crumbled feta (optional) if you like.
 
 #### Turmeric Rice & Chickpea Bowl
 
