@@ -11,7 +11,7 @@ Yields ~12 cups
 
 ## Preparation
 
-Bring plenty of water to a boil in a pot. Add the soybeans and boil for 1 minute. Remove from the heat, let sit for 30 minutes, and then drain.
+Bring plenty of water to a boil in a pot. Add the soybeans and boil for 10 minutes. Remove from the heat, let sit for 30 minutes, and then drain.
 
 Transfer half the beans to a blender with 6 cups of water (it’s okay to be a little off). Briefly blend until it forms a thick slurry - only 10 to 20 seconds.
 
