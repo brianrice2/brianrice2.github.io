@@ -9,6 +9,12 @@ title = "Instant Pot Cooking Times"
 - 1 cup dry rice : 1 cup water
 - 3 min
 
+Stovetop:
+
+- 1 cup dry rice : 2 cups water
+- 15-17 min simmer
+- Rest 10 min
+
 ## Brown Rice
 
 - 1 cup dry rice : 1 cup water
@@ -31,7 +37,9 @@ title = "Instant Pot Cooking Times"
 - 1 cup dry : 3 cups water
 - 7-10 minutes
 
-## Quinoa (Stove)
+## Quinoa
+
+Stovetop:
 
 - 1 cup quinoa : 2 cups water
 - Drizzle olive oil

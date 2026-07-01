@@ -1,6 +1,19 @@
 +++
-title = "Smoothie - Green"
+title = "Smoothies"
 +++
+
+## Banana Chocolate
+
+- 1 cup water
+- 1 frozen ripe banana in chunks
+- 1/2 cup frozen blueberries
+- 2 Tbsp cocoa powder
+- 1 Tbsp ground flaxseeds
+- 1/2 tsp vanilla extract
+- 1 Tbsp almond butter
+- 2 Tbsp date syrup (optional)
+- 1 cup raw spinach
+- 3-4 ice cubes (optional)
 
 ## Brooke Goldner Daily Drinker
 
@@ -9,7 +22,17 @@ title = "Smoothie - Green"
 - 1 ripe banana & frozen mango the rest of the way (or blueberries, pineapple, ...)
 - Water up to the top of the kale
 
-Blend for 2-3 minutes!!
+Blend for 2-3 minutes!
+
+## Pumpkin Pie
+
+- 1 cup water
+- 1/2 cup solid-pack pure pumpkin purée (NOT pumpkin pie filling)
+- 1 small frozen banana in chunks
+- 3 soft Medjool dates, pitted
+- 1/4 tsp ground turmeric
+- 1 tsp pumpkin pie spice
+- 1 Tbsp almond butter
 
 ## Super Green
 
