@@ -1,5 +1,5 @@
 +++
-title = "Focaccia - Overnight"
+title = "Focaccia (Overnight)"
 +++
 
 ![Final result](focaccia-overnight.jpeg)
