@@ -38,3 +38,17 @@ For 2 blocks tofu, or 1 block + salad:
 - 1 Tbsp water
 
 Blend.
+
+## Sweet Asian Sauce
+
+(from https://joyfoodsunshine.com/asian-chicken-lettuce-wraps/)
+
+- 3 Tbsp soy sauce
+- 3 Tbsp hoisin
+- 1 Tbsp sesame oil
+- 1 Tbsp rice vinegar
+- 1 Tbsp peanut butter
+- 1 Tbsp honey
+- 2 tsp sweet chili sauce
+- 1/2 tsp garlic powder
+- 1/4 tsp ginger powder
