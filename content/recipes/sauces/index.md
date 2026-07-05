@@ -39,9 +39,9 @@ For 2 blocks tofu, or 1 block + salad:
 
 Blend.
 
-## Sweet Asian Sauce
+## Sweet asian sauce
 
-(from https://joyfoodsunshine.com/asian-chicken-lettuce-wraps/)
+([source](https://joyfoodsunshine.com/asian-chicken-lettuce-wraps/))
 
 - 3 Tbsp soy sauce
 - 3 Tbsp hoisin
