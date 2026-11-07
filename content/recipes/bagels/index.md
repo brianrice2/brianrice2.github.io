@@ -21,7 +21,7 @@ Mix the molasses into the water, and the yeast if you're using active dry yeast.
 
 Mix the other ingredients in a large bowl. Add the wet solution, and mix with a spatula. Once it's a shaggy ball, cover and let rest for 20 minutes.
 
-Knead the ball in the bowl several times (press-and-fold style), then turn it out onto the counter and knead for 15-20 more minutes, until it's stiff but very smooth and still slightly tacky. Only add flour as needed to prevent sticking.
+Knead the ball in the bowl several times (press-and-fold style), then turn it out onto the counter and knead for 10-12 more minutes, until it's stiff but very smooth and still slightly tacky. Only add flour as needed to prevent sticking.
 
 Form the dough into a ball, dust it lightly with flour, and place it seam-side down into a large bowl. Cover and let rise until doubled, around 1.5-2 hours.
 
