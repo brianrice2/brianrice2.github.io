@@ -34,6 +34,7 @@ sections = [
     { name = "recipes", path = "/recipes", is_external = false },
     { name = "resources", path = "/resources", is_external = false }
 ]
+blog_section_path = "/posts"
 
 back_link_text = "Back"  # Text of the back button
 force_theme    = false   # false | "light" | "dark"
