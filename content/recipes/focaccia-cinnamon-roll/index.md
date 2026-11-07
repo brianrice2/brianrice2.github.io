@@ -6,25 +6,25 @@ title = "Cinnamon Roll Focaccia"
 
 ### Dough
 
-- 3 cups (360g) all-purpose flour
-- 1¾ tsp (11g) fine table salt
-- 1 tsp instant yeast (if using active dry, use 1¼ tsp and stir it into the warm water for 5 minutes first)
-- 1 tsp granulated sugar
-- 1¼ cups (284g) warm water, 90–110°F
-- 1½ tbsp (18g) olive oil
+- 360g all-purpose flour
+- 11g salt
+- 3g (1 tsp) instant yeast (if using active dry, use 4g and proof it first)
+- 4g (1 tsp) granulated sugar
+- 285g warm water
+- 18g olive oil
 - Cinnamon-sugar mix: 2 tbsp brown sugar plus 1½ tsp cinnamon, stirred together and split in half
 
 ### Pan and topping
 
-- 3 tbsp (36g) olive oil, divided
-- ⅓ cup (71g) light brown sugar, packed
-- 2 tbsp (28g) softened butter
-- 1 tbsp cinnamon
+- 36g olive oil, divided
+- 70g light brown sugar
+- 2 Tbsp (28g) softened butter
+- 1 Tbsp cinnamon
 
 ### Glaze
 
 - ¾ cup (85g) powdered sugar
-- 1½ tbsp milk or cream
+- 1½ Tbsp milk or cream
 - ½ tsp vanilla
 - Pinch of salt
 
