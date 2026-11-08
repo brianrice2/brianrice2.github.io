@@ -2,6 +2,8 @@
 title = "Bagels"
 +++
 
+![bagels.jpeg](bagels.jpeg)
+
 # Day 1
 
 ## Ingredients
