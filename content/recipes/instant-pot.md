@@ -1,5 +1,5 @@
 +++
-title = "Instant Pot Cooking Times"
+title = "Instant Pot"
 +++
 
 ~3/4 cup dry per serving
