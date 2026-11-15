@@ -52,3 +52,15 @@ Blend.
 - 2 tsp sweet chili sauce
 - 1/2 tsp garlic powder
 - 1/4 tsp ginger powder
+
+## Pizza sauce
+
+- 6 oz tomato paste
+- 15 oz tomato sauce
+- 1-2 Tbsp dried oregano
+- 2 Tbsp Italian seasoning
+- 1/2 tsp garlic powder
+- 1/2 tsp onion powder
+- 1 tsp garlic salt
+- 1/4 tsp pepper
+- 1 tsp sugar (optional)
