@@ -42,7 +42,7 @@ When you're ready to make some bread, sprinkle the top of the dough with flour a
 
 Place the loaf onto a lightly greased or parchment-lined baking sheet. Sift a little flour over the top, and cover with greased plastic wrap or a reusable cover.
 
-Let the loaf warm and rise for about 60 minutes. Preheat the oven to 450ºF in the meantime. Place a shallow metal or cast iron pan (not glass/Pyrex/ceramic) on the lowest rack, and have 1 cup of hot water ready to go.
+Let the loaf warm and rise for about 90 minutes. Preheat the oven to 450ºF in the meantime. Place a shallow metal or cast iron pan (not glass/Pyrex/ceramic) on the lowest rack, and have 1 cup of hot water ready to go.
 
 Score the bread 2-3 times with a sharp knife, about 1/2" deep. Put the bread in the oven. Carefully pour the 1 cup of hot water into the shallow pan underneath, and quickly close the oven door.
 
