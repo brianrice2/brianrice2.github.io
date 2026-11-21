@@ -49,4 +49,6 @@ Bring to a boil, then reduce the heat, cover, and simmer gently (or bake at 300Â
 
 In the meantime, prepare the onions and mushrooms: Melt the butter in a pan and add the pearl onions, stirring often, until lightly browned and just tender, about 5-8 minutes. Then add the mushrooms until their juices are cooked off. Add to the stew, along with the chopped parsley and salt/pepper to taste.
 
-When the stew is done, remove the herb sprigs and bay leaf. Chill overnight if you like. Skim off any fat from the surface of the stew, and bring back to a simmer if you chilled it. Thicken with butter/flour if it's too thin, or else it's ready! Serve with thick, toasted slices of baguette or other crusty bread.
+When the stew is done, remove the herb sprigs and bay leaf. Chill overnight if you like. Skim off any fat from the surface of the stew, and bring back to a simmer if you chilled it. If it's too thin, thicken with butter/flour, or if it's too winey, simmer uncovered for 10-15 minutes to boil it off some.
+
+Serve with thick, toasted slices of baguette or other crusty bread.
